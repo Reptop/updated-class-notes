@@ -1,0 +1,1443 @@
+Notes from 27 September 2022
+
+Global warming refers the increase in the rise of global average temperature near earth's surface
+
+Climate basics:
+    The world has been gettting warmer - the co2 parts per million on our atmopsphere is significantly higher than historic levels.
+ 
+    Another defintion: climate is the expected range of weather for someone living in a specific place
+    What is Climate?
+        Climate is determined by many factors that influence flows of energy through the climate system, including greenhouse gases.
+        Climate change is a change in the pattern of weather - and changes in oceans, land surgaces, and ice sheets, occuring over a large time scale.
+
+    Climate change:
+    Climate change is a significant and lasting change in the statistical distribution of weather patterns. 
+    (Climate = distribution of weather outcomes)
+
+    With climate change, we are changing the normal distribution, as the statistical distribution is more saturated in higher temperatures compared to 
+    previous data.
+
+    There is not just a shift in the mean, there is also a shift in variance; the distribution are getting smushed down, so more record hot weather is
+    very possible. Higher variance equates to greater unpredictabillity - less change for cold weather, but more record hot weather when the mean is shifted,
+    but extreme cold and hot weather is still possible because of this increased variance.
+
+    Essentially, this increased variance would lead to more extreme weather outcomes.
+
+    The normal distribution can also be applied to frequency of wildfires, droughts, etc. Temperature isnt the only unit applicable to this normal disribution
+
+Earths warming trend:
+    Average temp has risen by 1.53F in last 100 years
+
+    Projected to rise another 2F to 11.5F
+
+Effects of Warming:
+    Even small shifts in the mean and variance temperature can lead to a positive feedback loop, which in turn can lead to dangerous shifts in climate and weather
+
+    Examples:
+    - More floods, droughts, or intense rain
+    - Melting of the polar ice caps
+    - Rising see levels
+    - Reduce in albedo effect
+    - could be more...
+
+IPCC:
+    IPCC from the united nations created a model that uses rpc as a metric to detail the intesnity of climate change
+
+
+Climate views in the united states over time:
+    The amount of people that recognize climate change as an issue is rising; however, there are still people who are in disbelief.
+
+"We need to add incentives to become more climate friendly. In an unregulated market nothing alligns self interest with the broader effects of society"
+
+29 September 2022
+
+Current events:
+    52 billion dolloar proposal to protect NYC from storm surges
+
+Carbon is an unregulated market; we need policies to make carbon regulated
+
+What is economy:
+    A collection of technological, legal, and social arrangments through which individuals in society seek to incnrease their well-being
+
+What is economics:
+    The allocation of limited resources (money) to satisfy unlimited human wants
+        - The goal of studying economics is just trying to find out how we can do better.
+
+What is climate economics:
+    The application of the principles of economics to the study of how environmental and resources are managed.
+
+Big picture questions:
+    what is the right price to put on environmental damages that impact our climate?
+    What is the best approach to dealing with GHG pollution?
+    How do we value ecosystem services harmed by climate change to better inform polcy decisions.
+
+Two systems: economy and the climate
+Economy                        climate
+ - Economic Agents
+    - individuals             - Biosphere
+ - Institutions they form
+    - Governments, Firms      - atmopsphere
+ - Linkages between agents
+    -Markets                  - Flora
+                              - Fauna
+                              - Oceans
+
+Climate change Mitigation:
+reducing the flow of heat-trapping grenhouse gases into the atmopsphere
+ This can be accomplished by:
+    - Reducing the use of fossil fuels
+    - Enhancing the capacity of carbon "sinks"
+
+Mitigation policy options (Reducing the flow of GHGs):
+    - Market based instruments (M) - Carbon taxes, Subsidies, Cap and trade - can influence innovation in climate friendly instruments (influence the economy)
+    - Regulatory instruments (R) - Regulatory efforts, product bans, government investment (For example, a new fuel efficiency standard for cars has been placed) (Creating regulations)
+    - Volutary Agreement (V) - Made bewteen a government agency and one or more private parties to acheive environmental objectives or performance
+
+Reducing the use of fossil fuels: 
+    - By taxing the use of fossil fuels and using C02 emissions market (M)
+    - Improving energy efficiency (R, V)
+    - Choosing renewable energy over fossil fuels (M, R, V)
+    - Choosing public transport and sustainable mobillity (M, R, V)
+    - Promoting sustainable changes in industries (M,R,V)
+
+Enhancing Carbon Sinks:
+    - Limiting deforestation (M, R, V)
+    - Reducing soil erosion (M, R, V)
+    - Habitat restoration in both terrestrial and marine environments (M, R, V)
+    - Carbon capturing technology
+
+Other mitigation options:
+    - Climate engineering
+     - Deliberate and large-scale interventions in climate systems
+
+Climate change adaption:
+    Adpapting to actual or expected future climate by taking practical actions to manage risks
+    The goal of adaptation is to reduce our vulnerbillity to harmful effects of climate change
+
+Adaption and adaptation types:
+    When to adapt?
+        - reactive (Response to event of stimulus)
+            - Farmer changes crop choice after a drought destroyed crops last year
+        - Anticipitory (Actions are taken before impacts are actually observed)
+            - government agency providing funding to costal home owners to prevent their homes from being submerged
+    Who's doing the adapting?
+        - private(Only reacted by an individual and would only benefit that individual)
+            - A person in portland buys an AC in response to the rise in temperatures
+        - public/joint(actions that create benefits for many individuals at once)
+            - engineers nourishes beaches in florida to protect homes and infrastructure from hurricanes and rising sea levels (widening beaches as a protective buffer)
+
+Mitigation and adapting (Using both at the same time!!!!!):
+    - Coastal wetland store and sequester lots of Carbon (Mitigation)
+    - They defend coasts against sea level rise by buffering storm surges and floodwaters (Adaptation)
+
+5 major challenges:
+ - Large Scale & irreversibillity of damages (The large scale and irreversibillity of this issue could make change too late)
+                                             (Also when GHGs are realeased in the atmopsphere, they stay for a very long time)
+
+ - Global cooperation (Politcal battles between countries; we need global cooperation for the best policy solutions)
+
+ - intergeneration impacts (its not going away, they want to kick costs in the future, want benefits now)
+                           (How can we take into account of the people that aren't born - who are likely to experience severe effects of climate change)
+
+ - Uncertainty (projecting how climate will change and the economics with it, is still quite uncertain in many areas)
+
+ - Unequal distribution of impacts (Success in one place could be damaging to other areas)
+                                   (Poorer, Hotter countries are more vulnerable to climate change, and will experience more negative impacts)
+
+scale in terms of economics:
+    Economic damage from climate change could reduce global GDP(Gross domestic product) by 7.2% by 2100
+
+
+
+-------5 Major challenges expanded:------
+
+irreversibillity:
+    (When CO2 enters the atmopshere it stays there for a long time)
+    Co2 concentration is largely irreversibile for 1,000 years after emissions stop, locking in:
+        - Temperature increase
+        - Dry season rainfall reduction
+        - Sea level rise
+    - Economic damage could reduce global gdp by 7.2% by 2100
+Global cooperation:
+    GHGs are uniformly-mixed pollutants (Regardless of where they came from, they mix uniformly into the atmopsphere causing problems for all)
+    (Countries are doing this to each other in a sense)
+
+    GLOBAL PROBLEMS REQUIRE COLLECTIVE ACTION 
+
+    Because GHGs mix globally in the atmopsphere, damage isnt necessarily attributed to the country where the emissions came from. And expenditures to reduce
+    emissions may not benefit the country that is incurring (suffering) them. Therefore, countries may decide to invest in reducing poverty within their borders because 
+    spending funds on climate change will make little impact.
+
+    Undeveloped countries are arguing that developed countries have reaped the benefits of co2 emissions are should be responsible in reducing it.
+
+    The threat of climate change isnt as immediate, dense, or recognizable as threats have historically alligned nations behind a common purpose
+
+intergenerational impacts:
+    we would rather see the benefits now and pay for it later
+
+    How can we enact policies today to balance the welfare effects of those alive today against the wellfare of future generations?
+    (How can we make sure the earth isnt damaged to the point where it will become unlivable for future generations?)
+
+Uncertainty:
+    calls for individuals to make decisions with potentially long term consequences, with potentially incomplete knowledge of our climate systems
+    We will continue to understand climate science and increases in greenhouse gases; however, there will still be many uncertainties.
+
+    Some main uncertainties:
+        - future emissions trajectories
+        - future changes in societal preferences
+        - modeling limitations
+        - measurement error and data
+        - feedback systems that could amplify or dampen disturbances in climate systems
+Integrated Assessment Models
+Uncertainty could work in both directions: it could prove to be less of a disaster than expected or much, much worse.
+
+Unequal distribution of impacts:
+    - The poorest countries are experiencing the worst of climate change, which is an issue they were barely responsible for.
+    - In a society where global natural resources are shared, people will look out for themselves instead of the common good, which disadvantages marginalized
+      groups of people.
+    - A study suggests that climate change are increased between-country inequality by about 25 percent.
+
+    The 5 challenges of climate change summarized:
+        The effects of climate change is likely to be costly, irreversibile, and unequally distrubted around the plant, and impact current and future
+        generations. Defining policy goals must deal with uncertainties in future outcomes and the global nature of the problem
+
+Why is climate change an economic problem???
+
+    (The economy heavily relies on the burning of fossil fuels)
+    Much of our economy is based on the combustion of fossil fuels, leading to Co2 emissions in our atmopsphere. This alters earth's climate via 
+    the greenhouse effects, which causes feedback loops that can further amplify rising temperatures and effect on humanity. 
+
+    The CORE ECONOMIC problem with greenhouse gas emissions is those who generate the emissions do not pay for the privilege to do so; those that are harmed
+    are not compensated. 
+
+    Since the industrial revolution, our atmopshere has been used as a free resource to absorb emissions from industrial activity.
+
+    Using the production of corn as an example:
+        When you buy corn, you are paying for the cost to produce it and farmers and retailers are compensated to provide to you - the consumer. However,
+        the carbon emissions released to produce that piece of corn is not taken into account of the price of that corn. Economists call these costs 
+        externalities, as they are external to the market transaction.
+
+        Externality: Byproduct of market transaction--which is not borne by a third party--and does not participate in that transaction.
+
+        Climate change is an externality and is likely to be the most complex externality that we face because it is global, affecting everyone on the planet,
+        the effects are long lived, and that no individual slow the effects of climate change on their own.
+
+        Climate change is an issue for two central economic reasons:
+            - its a global externality created by everyday people in their burning of fossil fuels
+            - Its a persistent problem that casts a long shadow into the future. The effects of emissions now are likely to affect humans and natural systems
+              for decades or even centuries.
+
+        Markets that FAIL cannot SOLVE THE PROBLEMS they generate
+
+    2 examples of how climate change will impact the economy in the near future:
+        - Local funds: Threat to local and state governments and their abillity to borrow funds for investment
+        - Transporation infrastructure: How coastal level and sea level rise may impact the pacific coast highway in beverly, beach oregon
+
+
+Date: October 3rd 2022
+
+10 Princibles of economics
+
+    1. People face tradeoffs
+        - To get something, we usually have to give up something
+            - Ex. Leisure time vs. work
+
+    2. The cost of something is what you give up to get it
+        -  Oppurtunity cost is the best alternative forgone
+            - The Oppurtunity cost of college is the money you could've made if you used that time to work
+
+    3. Rational people think at the margin:
+        - Marginal Changes are small, incremental changes to an existing plan or action
+            - Ex. Deciding to produce one more pencil or not
+        - people will only take action if the marginal benefit exceeds the marginal cost
+
+    4. People respond to incentives
+        - Incentive is something that causes a person to act
+            - Ex Higher taxes on cigars to prevent smoking
+
+    5. Trade can make everyone better off
+        - Trade allows countries to specialize in their greater advantages and to enjoy a greater variety of goods and services
+
+    6. Markets are usually a good way to organize Economic Activity
+        -  Adam Smith made the observation that when households and firms interact in markets guided by the invisible hand, they will produce the most surpluses for the economy
+
+    7. Governments can sometimes improve economic outcomes
+        - For example, when a market fails to partition its resources effectively, governments can step in and intervene to promote greater equity.
+
+    8. The standard of living depends on a countries production:
+        - Essentially, the more goods and services a country produces, the higher the standard of living. This is because as more people
+        consume a larger quantity of goods and services, their standard of living with increase.
+
+    9. Prices rise when the government prints to much money (inflation)
+        - As the government prints more money, there will be a higher demand for goods and services, causing prices to rise 
+
+    10. Society faces a short run tradeoff between inflation and unemployment
+        - In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. 
+        However, this is not the case in the long-run.
+
+
+Demand (Consumer side):
+    A Demand Curve is a line or curve that represents the maximum amounts of a good people are willing to purchase at a given price
+
+    -----Law of Demand: As price falls, quantity demanded by the consumers rise (Implying a downward sloping demand curve)-----
+
+    What can shift demand:
+        Using oranges as an example
+        1. Income 
+            - More income = increased likelyhood of buying more oranges
+            (More income would mean you be fine with buying large quantities of something more expensive)
+
+        2. Tastes and preferences 
+            - New cool apple comes around, might just switch from oranges to apples
+
+        3. Price of other goods
+            - If the price of a subsititute good like apples is a better value, I'll be more inclined to get oranges
+
+        4. Size of the market
+            - if more people moved to my town, stores my sell more oranges at a given price
+                (Look at housing prices, more people moving to oregon creates a larger market for housing)
+
+        5. Expecations:
+            - If I expect orange crops to get damaged in the future, I may buy more oranges at a given price 
+
+Supply (Producer side):
+    A supply curve is how much a firm is willing to sell at a give price for the product
+        - Summarizes the relationship between price and quantity on the supply side
+
+    As prices rise, quantity firms are willing to to supply increases
+        - As the price of that good increases, there will be more incentive to produce that product for better profits
+            (Like in inflation, there will be higher demand of that product if its price rises, but its not sustainable) 
+
+            -------------------As prices increase, quantity supplied will increase-------------------
+
+                                THIS IMPLIES TO UN UPWARD SLOPING SUPPLY CURVE
+
+    Supply and demand create a market. Markets aggregregate the information about suppliers and buyers and signals this information 
+    through the equilibirum price that emerges.
+
+Market equilibirum is the intersection of the supply curve, and the demand curve. 
+    - Market equilibirum occurs at the price P* and the quantity Q*. This illustrates the concept of economic efficiency.
+
+      Q* is the level of production that maximizes the net benefits to society of this market.
+
+    Need to maximize profits by matching the demand, aiming to not under or over-produce.
+Economic Welfare:
+    Consumer Surplus (CS):
+        The price a consumer is willing to pay minus the price they have to pay
+
+    Producer Surplus (PS):
+        the net benefit a producer recieves from participating in this market.
+        PS is equal to the price it recieves - minus the cost of producing each unit
+    Net benefits:
+
+    CS + PS = Net benefits 
+
+How markets fail:
+
+    Necessary conditions for an efficent market:
+        - perfectly competitive market (Lots of buyers, many firms producing identicle products, lots of sellers, free entry and exit into and out of the market, firms are price takers)
+        - Perfect information (Buyers and sellers have all the info they need to make economic decisions: Produdct quality, cost, and market prices)
+        - Markets are complete (All relevant costs and benefits are borne by the people in that market)
+            - Some coffee production has discharged pollution river ecosystems that have been known to damage plant and animal life.
+                - if these evironmental costs are not reflected in the price, the coffee market is not complete.
+
+    Complete markets DO NOT EXIST for a number of environmental goods:
+        - Air
+        - Water
+        - ecosystem services
+        - ClIMATE
+
+    When any of these 3 conditions does not hold, we can say that this market is not allocating resources effeciently and therefore has failed
+
+For section 3 to hold, we need well defined property rights
+Property rights:
+    A bundle of entitlements defining the owner's rights, privileges, and limitations for the use of a specific product
+
+    What is a well defined property right?
+
+        1. Universal and comprehensive
+            - All resources are privately owned & all entitlements are specified.
+        2. Exclusivity:
+            - All benefits and cost as a result of owning and using a resource go to the owner either directly or indirectly.
+            (An individual should reap all the benefits but also bear all the costs associated with owning a property right)
+        3. Transferable:
+            - Resource owner can transfer rights to others
+        4. Secure and Enforcable
+            - No one can take away or use a resource in any away not intended by the owner.
+
+Negative Externality:
+    An externality results when the actions of one individual or firm have a direct, unintentional, and uncompensated effect on the well-being
+    of other individuals or profits of other firms.
+
+    Prices should reflect the full cost of resource use
+
+    Another definition: When person A's utility (happiness) or production are affected by variables chosen by person B without regard for the effects
+                        of person A. (doesnt have to be from a single source) an externality is just any external effect from economic activity.
+
+    Markets with externalities generate costs of 3 types:
+        Private costs:
+            Costs that show up on profit-loss statements and must be paid by firms (i.e production costs)
+            From a consumer perspective: Price you pay to buy something
+
+        External Costs:
+            Do not show up on a firm's balance sheet and are not reflected in the price paid by the consumer
+
+        Social Costs:
+            Sum of private and external costs
+
+Thursday October 6th:
+
+    Discount rate:
+        The discount rate is the rate at which dollars deflate over time.
+
+    Setting the rate:
+        Discount rate of 0:
+            Present benefits are equally as beneficial in the future
+
+        Low discount rate:
+
+        High discount rate:
+
+        Comparson of equillibria:
+            - Electricity output is too high
+
+            - The price of polluting product is too low
+
+            - Too much pollution is produced
+
+            (We need to add policies that account for these low prices for pollution; force pollution price)
+
+Tuesday October 11th:
+
+    Electrification of vehicles:
+        Is electrification the answer?
+
+        However...
+
+        broad agreement that EV cars will have a lower lifetime carbon footprint than traditional cigars
+
+        Total emissions per mile in EVs are lower
+
+        1. The batteries in Evs still charged by fossil fuels
+
+        2. EVs.....
+
+        Full benefits of EVs will be realized only after the electricity sources become renewable, and it might take
+        decades for that to happen.
+
+        The batteries to create and EVs are an intensive process and create 40% more emissions than a traditional car
+
+        Evs are not the key answer to climate change.
+
+        Evs should be accompanied by use of public transport and bicycles.
+
+
+    Measuring the economic impacts of climate change:
+
+        Need some kind of government incentive to enact policies.
+
+        Climate impacts:
+            Changes in climate affect the physical world
+
+            ........
+
+        Impacts to policy:
+            Most climate policies will impose costs on Society (its expensive to manage this issue) 
+            (Market based policy would make current goods and services more expensive)
+                - develop new technology
+                - investments in energy
+                - investments in energy efficiency
+
+            Good climate policy depends on our abillity to assess the impacts 
+
+            benefits & costs:
+                On one side, we could ban all fossil fuels today, but that destruction and cost that comes with it is immense. 
+                 - wars, famine, and chaos would insue since we depend so heavily on fossil fuels.
+
+                 - On the other, we could do nothing and take a gamble on rapidly warming the planet (basically doing nothing, this will cost a lot in the future)
+
+                 ----Sensible policies will thus fall inbetween these two extremes: some balencing of costs and benefits----
+
+            Estimating impacts:
+
+                very difficult to do so...
+
+                Combines uncertainties in emissions projections and climate models with potential range of reactons of human system
+
+            Market impacts in managed systems:
+
+                - market impacts are likely "easiest" to approximate
+
+                - this is true for managed systems in developed Countries
+
+                - These managed systems are more resilient to climate change, gven the time to adapt. 
+
+            Nonmarket impacts and unmanaged systems:
+
+                - most damaging impacts from climate change are likely to arise outside of conventional Markets, with clearly defined prices
+                        for example, flooding
+
+                - in unmanagable systems, the scale of the dangers  are likely beyond human capacity to solve
+
+            Climate change and hot, dry summers mean big trouble for Oregon's trees
+
+            Climate change will bring unbalanced economic damage across the US. Some states will benefit from climate change, while others will not.
+
+            Poorer counties are more prone to economic damage. This highlights the importance of adaptation and shows that richer communities are 
+            well-equipied to adapt to climate change, given that they have the means to adapt and experience lower losses.
+
+        Attribution:
+
+            In law, attribution is often associated with responsibility and blame linked to debates about liabillity and compensation
+            (Making a link between damages and the person responsible)
+
+            In science, attribution is viewed as a way to further scientific understanding of casual links between elements of the climate system and society
+
+            Attribution: climate v. weather:
+
+            Two examples:
+                - Hot weather reduces farm yields
+                - small climatic warming may increase farm yields
+
+                   - The difference is that farmers cannot adapt to extreme, unexpected weather while they can adapt to small climatic Changes
+
+                Attribution challenges:
+                     - The science is progressing fast and has potential to increase understanding oh how climate change influences economic activity
+
+                     - Over time, some uncertainties will be reduced, while others remain.
+
+                     - We can work now to scientifically verify the damages and losses from certain events
+
+                    - Currently, we cant say that climate change caused this, it is just one of the causes.
+
+            Attribution of climate impacts must be carefully done; these Assessments must be made scientifically and serparte from the impact from day-to-day
+            weather events while also accounting for humans adaptive capacity.
+
+    Thursday Oct 13th:
+
+        Current events: global agreement to reduce aviation emissons
+
+       Counterfactual: what would happen if we didnt have climate change? (we could use this counterfactual to find causual links to climate change)
+
+        Valuation of climate impacts:
+
+            Market impacts: translate climate to physical changes in economic output then use market prices to estimate damages
+
+            Nonmarket impacts: difficulty to assess both the quantity of loss in environmental damage and the value that would be applied.
+                               Need significant research for both measures to apply....
+
+            Use Value Example: outdoor recreation:
+
+                3 Sources of Economic Value:
+
+                Use value: the utility of consuming a good or services
+
+                Option value: The utullity placed on maintaining a resource to have option to enjoy it in the future
+                                (I want to use it, is there any way I can keep it like that so I can use it in the future)
+
+                Non-use value: the utillity that people assign to something even if they never have/will use it
+                                (e.g fish - it is food, tastes good, not everyone eats it but it has utility people assign - it is FOOD)
+                                (These are hard thing to pin down a dollar value for, but they exist)
+
+                Market impact example: A wildfire, driven by climate change occured
+
+                     - need to quantify the damage by looking at how much the lumber was worth
+
+                     - the lumber was this dollar per something 
+
+                        - quantify damage with how the lumber was worth to find market damage
+
+                What is missing from the above example:
+                    key assumption is that all value is use-related and captured by prices
+
+                    Habitat loss is what we're missing. The value of a cute owl losing its home is damaging too
+
+            Valuing impacts of climate change:
+
+                We have the apply values to a cute owl and ecosystem services. The policy discussions, we need to apply a price or else their price will be 0.
+                Our policy makers need to recognize the value of these things, even it its blasphemy to apply a price to human-wellbeing and wildlife.
+
+ 
+        Tipping points: When a system reaches a sharp change in its behavior that may lead to further instabillities in its behavior. 
+
+            (Points at which we'll cross some threshold and the changes from climate change will kick into a higher gear)
+
+            This causes increased uncertainty about potential impacts 
+
+            Features of tipping points:
+                Multiple outcomes or equilibria are possible
+                    (i.e both good and bad outcomes could occur)
+
+            Dangerous tipping points:
+                - Collapse of ice sheets in Antartica and Greenland
+
+                - Disruption of ocean circulation patterns
+
+                - positive feedback loops (white ice creates albedo effect. However, as ice melts, less albedo effect, and higher temps, then ice melts)
+
+                - Global impacts due to rapid rise in sea levels
+                    - Global impacts due to rapid rise in sea levels
+
+                - the Greenland ice sheet has potential ro raise sea level 23 feet if it melts completely
+
+                - timing is difficult, making assessment of economic impacts problematic
+
+                - Ocean circulation
+                    - The gulf stream keeps nothern europe warm 
+
+                    - changes in temperature and precipition....
+
+                - Feedback loops
+                    - Ocean becomes saturated with carbon, leaving more Co2 in the atmopsphere
+                    - melting permafrost releases long-stored methane into the atmopsphere
+                    - melting sea ice leads to less albedo effect, causing ice to melt, and the cycle intensifies
+
+                (Bangladesh would be greatly affected if greenland ice sheet were to warm)
+
+
+October 18, 2022
+
+   Kyoto protocol:
+
+
+        in 1992, United nations Framework convention on climate change negotiated and ratified by the US
+        - First adopted in December 1997
+        - kyoto protocol negotiated in 1997 but was rejected the US in 2001
+        - Despite being rejected, in 2005, Kyoto protocol entered in force
+        - US is one of the countries that refuse to ratify this protocol, along with Palenstine and South Sudan to name a few; Canada also withdrew.
+        - in 2009, world leaders negotiated the copenhagen accord 
+        - Currently, there are 192 parties to the kyoto protocol
+            - Economic sacrifices large in short term
+
+        Kyoto: U.S. Costs and Benefits: 
+            Controversial Benefit-Cost analysis shows effect of benefits being realized far in the future
+
+        2015 Paris Accord:
+            Kyoto never really worked, emissions are continuing to go up; emissions are still rising.
+
+            Goal was to limit global temperature rise to well below 2 degrees celsius, and to strive for 1.5 degrees celsius
+
+            195 countries agreeed to terms dealing with GHG emissions mitigation, adaptation and finace starting in the year 2020
+
+            (COVID made this plan fall behind)
+
+            this agreement's objective is to limit global temperature rise to well below 2 degrees celcius, and to strive for 1.5 degrees Celsius
+                - the catch:
+                    there is no legally binding emissions target
+                    - Data from NASA confirm that Febuary 2016 was 1.35 celcius above the long term average.
+
+            175 countries signed on April 22nd 2016 (Earth Day)
+
+            This was only the beginning, the countries' respective governments must first ratify this Agreement
+
+            15 countries that immediately signed this agreement were island nations, as they are highly vulnerable to the effects of climate changes
+            (Rising sea levels)
+
+                Of these 15 signers.....
+
+            - The agreement went into effect on Nov 4th 2016 once some EU member nations ratified it and passed the 55 countries representing 55% of 
+              global emissions
+
+            - on August 5, 2017, the Trump administiration delivered offical notice to withdaw the U.S. from Paris agreement
+
+                - As of Feburary 2021, We are now back in
+
+                    - As of right now, most countries ratified the paris agreement
+
+        American Clean Energy and Security act: 
+
+            - 17% Reduction from 2005 levels by 2020
+                - (passed in house in Jume 2009; Senate never considered to vote)
+                    (Obamacare occupied senate for yearsm leaving behind this act)
+
+        Clean Energy Jobs and American Power Act:
+            - Focus was to create cap and trade systems for greenhouse gas emmitions
+            - Same as American Clean Energy but 20% instead of 15% reduction from 2005 by 2020
+             - in July 2010, it was taken of fthe table in the Sentate; opposed by republicans
+
+        Obama's "Clean Power Plan": 
+            - Reduce Co2 emissions by 32% from 2005 levels by 2030
+
+            - climate & health benefits between 55 - 93 billion dollars by 2030
+
+            - Avoidance of 3,600 premature deaths, 90,000 asthma attacks in children, and 300,000 missed work and school days
+
+            - States given flexibillity to choose how to meet targets
+ 
+            - Clean energy incentive programs
+                - Wind and solar deployment incentives
+
+            - Supreme court jumped in and said, "hey, we gotta review the legality of this" (Stayed a regulation)
+
+                - Trump signed an executive order directing EPA to review the clean power plan. EPA planning on ending the clean power plan  (October 2017)
+
+                in may 2019 EPA announced plans to change the way the EPA calculates health risks of air pollution, making it easier to roll by CPP.
+
+        Trumps "Affordable clean Energy Rule":
+            On jan 19, 2021 the DC circuit court vacated Trump's EPA repeal and replacment of the clean power plan
+
+        Previous administiration: 
+            the trump administiration's EPA reversed >100 Environmental rules. This will cause increases in GhG emissions and lead to thousands of deaths
+            each year from declining air quality.
+
+        Current administiration:
+            - Rejoined Paris agreement, commit to reducint GhG emissions 
+
+            - Pledged to cut U.S. GHG emissions by 50% by 2030 and have carbon free power systems by 2035
+
+            - 
+
+        Inflation Reduction Act:
+            - The IRA was signed into law in August 2022
+
+            (This is the first actual meaningful legislation that was passed in this country, my goodness)
+
+            This contains some of the most aggressive actions the US has ever taken to combat climate change 
+
+            - OMB suggests the law could cut the social costs of climate change by up to 1.9 trillion by 2050
+
+               - Inflaction reduction act does about 2/3 of the remaining work to meet the emission goals by 2030 
+
+            Clean Energy Tax Credits:
+
+                Production tax credits:
+
+                Fuel Tax Credits:
+
+                Investment Tax Credits:
+
+                Clean vehicle tax credits:
+
+                Carbon Management:
+
+                Residential Energy efficiency:
+
+                Energy Innovation:
+
+                Community Investment: 
+
+                production tax credits: 
+
+                ..... 
+                ..... 
+                ..... 
+                .....
+
+October 19 2022
+
+    Drilled: The Turn Podcast Notes:
+
+        - The change in political power became much more conservative
+
+        - Major cuts occurred on research projects in Exon. They wanted to dump research to not tank earnings (cut the tanker project)
+
+        - Exon layed off the dozens of scientists. They turned into a conservative oil company
+
+        - Demos and Repubs were still united at the time 
+
+        - Bush Sr. said perserving the environment must be done (didnt happen)
+
+        - By shutting down their experiments exon lost their place on the table (lost their power)
+
+        - exon waged an information war on climate change
+
+            - Companies wanted to portray targeting emissions as something that inhibits proress in the United states 
+
+                - Promotions of the products and the company supported climate change deniers, giving millions of dollars to other identities to hopefullly portray
+                    climate change as a hoax
+
+            - oil industry banded together with other industries that might also be impacted by regulation of carbon emissions, they all drafted campaigns to create propogana and target audiences with messages crafted perciesly for them 
+                create propogana and target audiences with messages crafted perciesly for them 
+        - goal was to portay global warming as a theory, not a fact
+
+        - These influence campaigns are effective, they are still occuring to this day
+
+
+
+October 20 2022
+
+    Current events: biden is investing many funds torwards climate Changes
+                    An estimating 1 billion crabs are missing (?????)
+
+
+    U.S Regional and State Climate Actions: 
+        Regional Greenhouse Gas initiative (RGGI):
+
+        Has been running since 2009
+            - First mandatory cap and trade in U.S. 
+                twelve states currently participat ein the initiative
+
+        This only applies to electricity generation 
+
+        New goal: 30% reduction by 2030
+
+        California's cap and trade program went into effect Jan 1st, 2013
+
+        Oregon's SB 2020 failed in 2019, 2020 
+
+            Gov. Brown instituted part of bill through executive order March 2020
+
+    Regional climate policty in the U.S 
+
+        Regional Greenhouse Gas initiative (RGGI):
+            Most recent auction results:
+                - 22.4 million offered permits for greenhouse gas emmitions
+                - sold all 22.4 million
+                - clearing price: 13.45
+                - raised 301.3 million; 5.61 billion to 2022-10-20
+                    Funds investments in energy efficiency, renewable energy, direct bill assistance and GHG abatement programs
+
+
+        California's cap and trade p/rogram:
+            - Auction are held for polluters to purchase permits, number of allowances declines with time 
+
+            - Offsets allowed for 8% of compliance 
+
+            - Participations limited to sources that emit at least 25k metric tons Co2/years
+
+            - Banking of permits allowed
+
+            - Regulated sources must provice allowances and/or offsets for 30% 
+
+            - For every metric ton went over emitted, the penalty is 4 permits 
+
+
+            (The benefit of cap and trade is that you get money, you can use this money to invest in other things you need)
+            Auction revenue is invested in: 
+                - Ev car subsidies 
+                - solar panel subsidies 
+                - habitat preservation & restoration 
+                - mass transit in cities
+
+                35% of revenue directed to environmentally disadvantaged low income communities
+
+    oregon cap and trade attempts:
+        - Failed in 2019
+
+        - Failed in 2020
+
+        Governers executive orders orignial plan (March 10, 2020)
+            - This order was issued to reduce GHG emissions in the state, using government agency rules to enforce the changes
+ 
+
+        What now for oregon?
+            - the exact rules for browns executive orders are delayed due to COVID19. 5 million was dedicated to the rule making process in march 2020
+            - 45% reduction below 1990 levels by 2035, and an 80% reduction by 2050
+            - The state will have less funding to adapt. funding policies instead of other things I think
+
+        US Mayor's climate protection agreement:
+            - an intitiative to advance the goals of the kyoto protocol at the city level
+                - participating cities aimed to meet or exceed kyoto tarets at the city level
+
+        Now what?:
+
+            the next UN summit on climate change is planned for november 2022 in sharm el sheikh, egypt.
+
+            Green new deal:
+               - platform for transmorfitive policies to address climate change
+
+              - Authored by AOC and Sen Ed Markey in Feb 2019
+
+               - Advocates transitioning the US to 100% renewable energy sources and investing in electric cars and high speed rail systems
+
+               - Played a large role in democratic presedential candidates' platforms in 2020
+
+            Current Biden administiration plan:
+                -   rejoin paris Agreement
+                -   52% reduction in US GHG pollution from 2005 levels in 2030
+                -   carbon free power systems by 2035
+                -   plan to stop oil and gas leases on federal land 
+                -   climate intitiatives have been removed from large infrastructure proposal
+
+                Oregon house bill:
+                    - Gov. Brown signed a new climate bill in late july 2021
+                    - elims co2 emissions from the power grid by 2040 
+                    - Bans contructions or expansion of power plants that run fossil fuels 
+                    - 50 million in grants for community renewable energy projects 
+                    - Only applies to power sector, where the failed cap and trade system would have addressed emissions in manufacturing and transportation as well
+
+
+            1. deliver a mitigation work programs
+            2. meaningful progress on the global goal of Adaptation
+            3. addressing the loss and damage deficit
+            4. addressing climate finance challenge
+
+
+October 25 2022:
+
+  (Looking at the true social cost of carbon)
+
+  Remember the supply and demand Curve
+
+  The curve is shifted up to correct for pollution being too cheap
+
+  Social cost of carbon:
+    What is it? 
+
+      Social cost of carbon (SCC):
+        a dollar estimate of damages from emitting from one additional ton of GHGs put into the atmopshere 
+
+        Monetizatation puts the effects of climate change into economic terms to help policymakers (putting the costs and benefits into quantifiable metrics)
+
+
+  Calculating the SCC:
+    Step 1: Predict future emissions based on population, economic growth, and other factors
+
+    Step 2: Model future climate responses, such as temperature increase and sea level rise (Use a lot of data modelling for this)
+
+    Step 3: Assess economic impacts from climate change sectors within the economy
+
+    Step 4: Convert future damages into their present-day value and add them up to determine total damages
+
+  Choice that impact SCC Estimates:
+
+    - intergenerational equity (livelyhood of people in the future compared to people today)
+
+    - Geographic scope of the calculation (where is this happening)
+
+    - How to account for uncertainty (What don't we know and how dangerous does these external factors get?) 
+
+    - Environmental Justice
+
+      Intergenerational equity: 
+        - Transplanting future damages into present day value
+
+        - Uses a discount rate 
+
+        - Future costs and benefits are generally considered less significant than present costs and benefits
+
+      Geographic Scope of the calculation:
+        National? Global?
+
+        Different choices result in different Estimates
+
+      Accounting for uncertainty:
+        - Necessary to make some assumptions that introduce some uncertainty (lot of decisions that go into these modelling efforts, there's various ways to make different models with various assumptions) 
+
+        - SCC best represented by a range of possible values, rather than a single number
+
+        - Valuing uncertainty would likely increase the SCC substantially (If we took into account that bad things could happen more often, our policy guide will also take uncertainty into account)
+
+     Environmental Justice:
+      - Equity considerations not included in current SCC estimates 
+
+      - Changing weights given to damages in low-income communities
+
+      - Studies show consideration of EJ issues could raise SCC by 2.5 times or more
+
+
+
+     Brief history of the SCC:
+
+      ......
+
+
+      trump administiration set the SCC to 1 dollar/ton (Backed by no science)
+
+
+    The SCC and BCA (Benefit Cost Analysis):
+      - A primary policy vehicle that uses the SCC is benefit-cost analysis
+
+      - BCA is a process through which governments systematically measure and assess the pros and cons of alternatives 
+
+      - .....
+
+
+      - SCC translates climate imoacts into dollars for BCA 
+
+      - SCC can be used to calculate costs of increased emissions
+
+      - ......
+
+      How is SCC used: 
+        - Developing new policies that:
+          - regulate power plants
+          - set energy efficiency requirements
+          - establish fuel Economy
+
+        - Setting the $ amount for taxes and subsidies for:
+          - federcal carbon tax proposals
+
+October 27th 2022:
+
+  Discounting:
+    We need a way to aggregate benefits and costs that occur in different years: Discounting provides a potential solutions 
+
+    The discount rate is the rate at which the value of dollars deflate over time
+
+    Discoutning is the process of converting a value recieved in a future time period to an equivalent value recieved immediately
+      (What is 100 dollars in the future worth today?)
+
+    Discounting for decision making:
+      discounting is way to convert units of value across time horizons 
+
+      Discounting is used by decision makers to fuly understand the costs and benefits of policies tht hae future impacts
+
+    Why discount:
+      - people are impatient
+      - people expect to be wealthier in the future
+      - money received today can be saved and invested
+
+    Setting the rate:
+      Discount rate of zero: 
+        - Present benefits are equally as valued in the future
+
+      Low discount rate: 
+        - Present benefits are only slightly more valuable than future benefits
+
+      High Discount rate:
+        - present benefits are more valuable in the present than in the future
+
+      Disounting and climate change:
+        effective policy needs to consider long-term benefits 
+
+    What rate to choose:
+      Estimates in the U.S. range from 2 to 7% 
+
+      Societies with pressing immediate needs likely to have higher discount rates - immediate needs....
+
+    Different approaches:
+      Prescriptive (or Normative) Approach:
+        - Ephasize philosphical and ethical considerations
+        - .....
+
+    Descriptive (or Positive) approach: 
+        - How do inviduals and markets trade off current and future consumption based on observed behavior 
+
+
+November 1st 2022:
+
+  Introduction to market based carbon pricing:
+ 
+    - Carbon pricing works by charging polluters for the tons of carbon dioxide emitted for which they are responsible
+
+      - CO2 is largely through the combustion of fossil fuels used for electricity generation, industrial production, transportation, and
+        use of energy in residential and commercial buildings.
+
+    Benefits of carbon pricing:
+      - flexibillity: flexibillity to firms to find the best way to reduce emissions in response to the carbon price
+
+      - Cost effective: the dynamic of carbon pricing alllows for carbon pricing to be at the least cost for society as a whole
+
+      - incentivizes conservation: provides incentives to reduce emissions more than conventional regulations. Regulations do not regulate overall demand, 
+        it only sets limit per unit of output. Something like a carbon tax would likely result in higher prices, which would therfore reduce demand.
+
+      - Generates revenue: creates new revenue streams that can be used by governments in several ways. For example, investments in renewable energy capacity,
+        offsetting distributional impacts of the pricing policy, or reducing other distortions in the economy by lowering income tax rates.
+          - Revenue use can affect the economic costs and political feasibility of carbon pricing policy.
+
+      Pricing polcicy design:
+
+        Setting the price:
+            Ideally the carbon price would be set equal to the marginal damage of carbon emissions
+              (Marginal damages are the damage caused by adding one additional ton of carbon dioxide into the atmopsphere)
+
+            THERFORE, THE PRICE SHOULD BE SET TO THE SOCIAL COST OF CARBON
+
+        Coverage:
+          The coverage of a carbon pricing policy determines which sectors of the economy and which emissions types are covered by the carbon price
+
+        Point of regulation:
+          Appoints who is required to submit permits or pay the tax to the government 
+
+          - An upstream carbon tax would tax fossil fuel producers for the carbon content of their products
+
+          - A midstream tax would tax the first purchaser of fossil fuels in the supply chain.
+
+          - Downstream tax applies to the emitter - including, power plants, industrial users, or households and business that use gasoline in their vehicles.
+
+        Stringency of policy:
+          Determined by the level of the tax rate or the emissions cap and how they change over time. In determining strigency, policy makers face a trade-off
+          between environmental goals and the cost of meeting those goals.
+
+Carbon Taxes & Cap and trade programs:
+ 
+    A carbon tax is a price set per ton of carbon or per ton of CO2 emitted.
+
+    Carbon taxes provide a price certainty, as entities subject to the tax know how much they'll have to pay per ton emitted.
+      (However, setting a tax rate does not gauruntee a set quantity of emissons reductions)
+
+    How are firms regulated by a carbon tax likely to behave?
+      If the tax per unit is higher than costs to get rid of the pollution, a firm will REDUCE emmitions.
+
+      If the tax per unit is lower than the costs to get rid of the pollution, a firm will CONTINUE emitting and pay the tax
+
+      A carbon is simple and easy to implement - it also has the attractive property of being automatically cost-effective!
+
+      Cap and trade programs:
+        - A cap and trade program limits the total amount of co2 emitted by certain facilities.
+
+        - The government issues limited emissions allowances: 1 permit = right to emmit 1 ton of Co2
+
+        allowance distribution:
+          - Direct allocation of firms 
+          - sold through auction markets 
+
+        - Limited, government controlled supply of allowances caps total emissions
+
+        - Allowances can be traded, and the supply and demand for allowances yield a market equilibrium and a price for allowances 
+                                                                         (And essentially a price for one ton of carbon emissions)
+
+        - Some cap and trade programs allow for the banking and borrowing of allowances over time
+
+        - Offsets - Can companies use verified emissions reductions generated outside the cap comply? 
+
+
+        Cap and trade provides quantity certainty, since a regulator sets a cap on total emissions allowed.
+
+          - Hybrid systems can be used to reduce price or quantity uncertainty
+
+        How are firms regulated under a cap and trade likely to behave?
+          - if the permit price rises above the cost where it is higher than a firm's cost to get rid of the pollution, the firm will SELL permits
+
+          - if the permit price rises below the cost where it is cheaper than a firm's cost to get rid of the pollution, the firm will BUY permits
+
+        A cap and trade market only works if there is a variation in pollution and cleanup costs across firms
+          - i.e. there needs to be both buyers and sellers for the market to function
+
+
+      challenges of a cap and trade program:
+
+3 November 2022:
+
+  Revenues from carbon pricing:
+
+    Uses for carbon revenues:
+      - Redistribute to households 
+      - Reduce other distortionary taxes
+      - Investments in other climate mitigation or adaptation strategies
+      - General spending
+      - Deficit Reduciton
+
+  Redistribution:
+ 
+    Money back to households:
+      - Check
+      - credit 
+      - Existing programs
+
+    How to redistribute?:
+      - Evenly among households
+      - Graded based on Income
+
+    considered progressive:
+      Dividend will likely exceed the increased costs incurrred by average low and middle income households
+
+  Reducing other taxes:
+    Tax swap:
+      - Use revenue to reduce taxes on labor or capital
+ 
+    Revenue recycling effects:
+      size depends on distortions reduced
+
+    Double Dividend Hypothesis:
+      - Environmental taxes can both reduce pollution AND reduce the overall ecoomic costs associated with the tax system by 
+        using the revenue.....
+
+    General Spending:
+      - Schools
+      - Universal healthcare 
+      - infrastructure improvement
+
+    Deficit Reduction:
+      Policymakers may decided to use carbon pricing revenue to deficit.... 
+
+    Other climate investments:
+      Many examples:
+        - Fund renewable energy projects
+        - Subsidize electric vehicles 
+        - Increase energy efficiency in buildings
+
+  Political feasibility of carbon pricing:
+    There is an inherent equity-efficiency trade-off in revenue use: 
+      - Dividends make the policy more equitable but more expensive
+      - Tax swaps make the policy less equitable but less expensive
+      - Green spending is popular but may be less equitable & more expensive relative to other options
+
+  Impacts on households:
+    expenditures:
+      - Energy costs likely to rise
+      - .....
+
+    Income: 
+      -
+
+  Progressive:
+    if the costs of a policy consitiute a larger proportion for high income households than low income households 
+
+  proportional: 
+    if the policy's costs consitiute the same proportion of income for households with different income levels
+
+  Regressive:
+    if the costs of a polcy consistuate a larger proption of income for low-income households than high-income....
+
+  Carbon pricing policies:
+    Thought of as Regressive: low-income households spend a larger share of their incomes on carbon intensive goods 
+
+    Recent research suggests otherwise:
+      - Low income households recieve a greater share of their income from government transfer payments that are linked to Inflation
+
+      - Carbon-intensive industries generate capital....
+
+    Revenue use:
+      - Revenue use is the most significant factor that determines distributional impacts from carbon pricing 
+      - Dividends can be made more progressive through policy choice Tradeoffs between equity and efficiency persist
+
+
+November 8th 2022
+
+    Adaptation in Agriculture:
+
+      Climate impacts on global Agriculture production: 
+        - Climate change threatens food security, especially in developing world 
+        - Climate zones shifting poleward, altering the distribution of highly productive Agriculture areas
+        - Worst yield declines are predicted for developing countries
+        - Researchers expect yields of most major crops in the U.S. to decline through the end of this century
+
+      - Private adaptation options exist for marginal changes in existing systems
+      - public adaptation through policy may be Necessary to support larger adaptation efforts in xhanging production systems and income support
+
+    Private Adaptation: How farmers adapt 
+      - Alteration of inputs
+      - Water use technologies & management
+      - Timing and location of cropping activities
+      - Improving pest & fertilizer managment 
+      - use climate impacts to reduce production risks
+
+    Public adaptation: Policies Needed 
+      - Mainstream climate adaptation into existing sustainable development policies
+      - Informing investment 
+      - Connecting researchers to farmer and stakeholders to improve risk management
+      - Education and extension
+      - Insurance....
+
+    USDA climate hubs:
+      USDA established cliamte hubs to facilitate climate-informed decision making 
+        - Mission combines regional scientific research with outreach to farmers
+
+      Through climate hubs, USDA 
+        - provides technical support for landowners responding to climate change
+        - assessess and monitors the risk to agricultural production
+        - Conducts...
+
+      Adaptation in Forests:
+        Forest managers need to respond to a wide range of factors, all of which may be influenced by climate change
+
+        Forests role in climate change:
+          Both cause of and solution to GHG emissions
+            - deforestation contributes about 12% of GHG emissions
+
+        Mitigation potential as carbon sink: 
+            - 1/3 of global emissions each years is absorbed by forests 
+            - Huge potential for further storage from restoration
+
+        Adaptation:
+          - How to help forests adapt
+          - How to forests can help us adapt more broadly
+
+        How to help forests adapt:
+          - Forest Productivity:
+            - Selecting heat or drought tolerant species in planted Forests
+            - Assisting natural regeneration with adapted species 
+            - modifying rotations lengths
+            - Investing in measures to improve soil structure aand reduce water stress
+          - Biodiversity
+            - Adjust management plans 
+            - Manage forests for diversity of species age, and structure 
+            - Expand protected areas
+            - Promote landscape connectivity
+
+10 November 2022:
+
+  How to help forests adapt contin...
+
+    Buffering from fire pests, and, disease:
+      - Integrated Fire management
+        - Treating fuels with prescribed burns
+        - protecting fire-sensitive ecosystems
+        - modifying landscape structure
+        - maintain fire regimes to increase resistance to severe fire 
+        - Recognize and promote... 
+      - Integrated pest management 
+        - Selecting tree species to suit natural conditions 
+        - Thinning practices to favor natural enemies of pests
+        - Careful monitoring (Japanese beatle, murder hornets)
+
+      - Decreased forest ecosystem services increase social vulnerbillity
+        - Substinence needs 
+        - Cultural identity 
+        - Water supply 
+        - Recreation
+
+  How forests can help us adapt:
+    - Ecosystem base management 
+    - more adaptive than engineered infrastructure
+
+
+November 15th 2022:
+
+	Coastlines as Coupled Human-Natural Systems:
+		- Two way feedbacks between coastal change and human behavior
+		- climate change is forcing adaptation investments
+	Coastal Areas in the US:
+		- 127 million people (40% of population) live in coastal counties		 
+		- population density is 5x greater
+		- Subject to risksfrom flooding, hurricanes, sea level, rise and erosion
+
+	General Adaptation Options:
+		- Shoreline stabalization
+			- Grey infratructure (Primary Adaptation strategy in developed areas, 60% of costs... LHR):
+				- Sea Walls 
+				- Revenants
+
+			- Green:
+				- Green infrastructure:
+					- Beach nourishment (
+					- Cost: > 10 billion spent to date (of taxpayer money)
+					- Coastal Wetlands Restoration
+					- ...
+
+		- Accommodate 
+			- Elevate homes & roads
+				- Raising structures above base floos elevation
+				- Many communities in Florida are beginning to invest in elevating major roadways
+
+
+		- Land use policy:
+			- Limits on development in risky areas
+			- Building code changes
+
+		  E.g: 
+			- Goal 18:
+				- Focused on protecting Oregon's beaches and dunes
+				- Reducing exposure to costal hazards
+				- Specific Regulations associated with:
+					- Prohibiting development in sensitive areas
+					- Limiting coastal armoring
+					- Limiting costal....
+				
+				- Protection of private property vs. public access
+		- Retreat:
+			- moving homes and infrastructure out of hazard areas
+			- Fears of "economic wasteland"
+		
+		Why ecnonomic analysis matters
+			- People respond to policy, risks, and changes in environmental quality
+			- Understanding and modeling incentives created by coastal policy s necessary to understand behavioral feedbacks on expected outcomes
+			- Changes in policy and or...
+		Economic research questions:
+			- ....
+
+		Existing federal policies on coastal development and Risk:
+			- Coastal zone managament act
+				- Passed in 1972 as a measure to encourage states to develop coastal management plans
+					- Goals: 
+						- Protecting natural resoruces
+						- Managing development in high hazard areas
+						- providing public access for recreatoion
+						- ... 
+			- FEMA hazard mitigation grant program
+				- Provides funding for eligible mitigation measures that reduce disaster losses
+				- This program can be used to fund projects to protext either public or private property
+				- This funds ....
+			- FEMA individuals and households program 
+				- Provides financial and direct services to eleigivle indiciduals and households affected by a disaster
+				- This is not a substitute for insureance and cannot compensate for all lossess
+			- National flood insurance program
+				- Created in 1968 to share risk of flood losses through insurance and restrict floodplain development
+				- Required for all homes in a floodplain, but uptake is not complete
+				- underwrite over 5 million flood insurance policies for 1.2 trillion coverage, yet only brings in 2.2 billion in insurance premium
+				  payment
+
+
+17 November 2022:
+
+  Moral Hazard: occurs when an individual has an incentive to increase its exposure to risk because they do not bear the full costs of that risky
+
+    - Expecations of aid may discourage private adaptation and encourage risky development (For example....)
+
+    - Evidence is mixed on whether moral hazard is a significant problem with federal aid policies mostly due to the fact aid programs do not often cover all losses
+
+  Adverse Selection:
+    Adverse selection occurs when asymmetric infromation is exploited (for example, federal government funding a farm for following environmental protocols, despite the farm already following these protocols)
+
+    - in NFIP, the concern is that that homeowners could have private information about their flood risk and the program could end up only insuring high-risk
+    properties
+    - Recent evidence suggests no adverse selection problem exists due to homeowners lack of understanding of their own risk
+
+  Perverse incentives & unintended consequences:
+    ....
+
+28 November 2022:
+
+  climate migration:
+    The movement of people who leave their habitual place of residence, either temporarily or permanently for reasons of sudden
+    or progressive change in the environment due to climate change.
+
+    - most migrants are doing so within their own countries
+
+    - Aleady existing patterns in developing worlld of climate migration
+
+    Causes:
+      - Suddent onset disaters
+        - hurricanes 
+        - Wildfire 
+        - floods
+      Internal temprorary migration
+
+      Slow onset disaster:
+        - Sea level rise 
+        - Drought 
+ 
+        Higher likelihood for cross-border permanent movement
+        
+
+      Migrants or Refugees?
+
+      "Refugee" used to add sense of urgency & seriousness of the situation
+
+      Worse-Case Prediction:
+        - Complex challenge with data limitations
+        - Depends on several factors:
+          - quantity of future GhG emissions 
+          - rate of future population growth and distribution 
+          - Effectiveness of local and national adaptation strategies
+
+      Impacts in the US:
+        Wildfires, hurricanes, droughts, and floods heightened by climate change 
+
+        --if people move, where will they go?-- 
+          People will likely move torwards California and the NW just because of climate influences alone
+
+      how to spot it:
+        World bank suggests that acting now will reduce the number of people forced to move by climate change as much as 80 percent
+
+Climate Gentrifiction:
+  
+  Gentrifiction: process where the character of a poor urband area is changed by wealthier people moving in and displacing current inhabitants
+
+    - This may revitilize certain areas, but it also displaces longtime residents and businesses, leaving a new demographic to enjoy the benefits
+
+  Gentrifiction with climate change:
+    --Areas now more attractive--
+
+    - May lead to an influx of real estate investment and spiking home prices in poorer areas with better climate resistance
+
+    Three mechanisms of climate gentrifiction:
+      - Surperior investment:
+          climate resilient properties are more desirable so their prices increase and high income households can only afford them.
+
+      - Cost-burden:
+        less resilient neighborhoods are inaccessible to low-income people who cannnot afford the expenses associated with natural disasters
+
+      - Resilience investment:
+          where a neighborhood hasa  climate resilient infrastructure which makes it more expensive
+
+        Natural diasters:
+          - can also accelerate Gentrifiction 
+          - Predatory investors and developers take advantage of even cheaper property and land values than existed prior to a disaster
+
+
+
+
+

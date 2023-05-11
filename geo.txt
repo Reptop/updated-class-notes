@@ -1,0 +1,1211 @@
+Januray 11th 2023:
+
+  Pay attention to the specific terms used in questions asked in this class
+  some questions may be trying to trick you
+
+  Greenhouse Effect:
+    First defined in the 19th century:
+      First by Joseph Fourier
+
+      Eunice foot and John Tyndall also contributed to research
+
+      lastly, svante Arrhenius put together everything
+
+    The wavelength of radiation emitted by a body depends of the 
+    temperature of that body.
+
+    Hotter - shorter wavelength 
+    Cooler - Long wavelength
+
+    As a flame gets warmer, the light turns to cooler colors
+
+    The sun emits short wavelength radiation
+    the earth emits long wavelength radiation
+
+    most of UV from the sun and space is being absorbed by the ozone layer
+
+    UV is too high in energy, so it is therefore harmful to living organisms
+
+    Earth is trying to release infared energy, trying to cool itself down, but greenhouse gases
+    trap in this heat, which keeps the earth warm in temperature.
+
+    SW radiation from Sun absorbed by earth
+
+    Emitted back from earth as LW radiation
+
+    Greenhouse Gases: mostly transparent to incoming SW radiation
+
+    HOWEVER, GHG's strongly absorb outgoing LW radiation emitted by Earth
+
+    Decrease GHG concetration, absorb less outoging LW radiation - planet cools
+    (because we're releasing less heat)
+
+    Result: Earth's surgace is ~55 Degrees F (31C) warmer with atmospheric
+    GHGs than without
+
+    isotopes: atoms with identical chemical, but different mass
+
+    atmospheric co2 has become more negative (light), so we know that 
+    the increase in CO2 is from burning of fossil fuels, not from other
+    sources like volcanic activity.
+
+
+January 13 2023:
+  Earth System Science:
+
+    System - Set of components that interact with one another to operate as a single entity
+    Analogy - human body (heart, lungs, brain)
+
+    Change in one component - will affect one or more of other components in some way 
+
+    Result: entire system changes
+
+    Examples (biosphere, hydrosphere, cryosphere)
+
+    Five compnents of Earth System: 
+
+    solid earth (lithosphere, mantle, core)
+    atmosphere
+    hydrosphere
+    cryosphere
+    biosphere.......
+
+  Two major engines of change (regarding greenhouse effect):
+    Solar radiation (solar panel on the surface)
+    Geo thermal heat (nuclear reactor in the core)
+
+
+  Energy drives change through convection: transfer of energy, causing motion
+
+  Concvection within solid earth heat supplied from radioactivity
+
+  incoming solar radiation unevenly distributed more energy at equator than poles
+  (Less sunlight in areas other than equator, because you're absorbing more sunlight over larger amount of area)
+  (Equator is like directly getting hit by the sunlight, so its warmer. The poles are gonna be colder, causing atmosphere)
+
+  atmosphere circulation transfers warm air from the tropics to areas where there are an energy deficit
+
+  Convection in the ocean:
+    Dense water sinks, forms deep water...
+
+  Water is being transferred in the tropics to the poles, so the water is being cooled very rapidly - become more dense and sinks
+
+  The oceanic transports heat from the low latitudes to the high latitudes
+  ......
+
+  System compnents interact - feedbacks
+
+  Two major feedbacks: (just like in ib bio)
+    Positive (changes your equilibrium)
+    Negative (brings you back to equilibrium)
+
+    positive feedbacks will amplify the effect of something in a system (for example, the albedo effect)
+
+  more sea ice - more reflection 
+  less sea ice - more absorbtion of sea ice
+
+  Currently, there is a reduction in the cryosphere (albedo effect) (bad for the fucking polar bear - best bears god damn)
+
+  2016 reached a record low global sea ice extent 
+
+  The reduction of albedo effect is the main driving force for polar amplifciation
+
+Example of a negative feedback loop that is combatting against reduction in albedo effect: 
+
+  Increased evaporation and cloud formation -> more solar radiation - reduced warming
+
+  Warming from climate change with feedbacks:
+    is a lot larger due to positive feedback loops
+
+January 18th 2023:
+  
+  Geologic time:
+    immense length of time over which large global changes have occured
+
+    Where it started:
+      Universe started with the big bang 13.7 billion years ago - earth is 4.6 billion years ago
+
+    Where did all the elements come from?
+
+    Just after the big bang, we tons of helium and hydrogen everywhere
+    
+    Heavy elements are produced inside starts by ----nuclear fusion----:
+
+      Our sun : He -> H = asjdfadfasdf
+
+      iron and nickle heaviest elements produced
+
+
+      Big bang mostly hydrogen some helium, but most helium was overshadowed by helium produced by nuclear fusion 
+
+    Closest observed supernova:
+      Supernova 1987A
+
+    other supernova: Crab nebula 1054AD supernova explosion
+
+    is betelgeuse next? (next star to go supernova)
+
+  Elements come from:
+    Big bang - light elements
+    Fusion in stars 
+    Super nova explosions -- iron and nickle
+    Remaining elements are only made in the laboratory
+
+  Why there is so much iron and nickle:
+    Hydrogen, carbon, oxygen, and helium all burn until everything turns into iron and nickle
+
+  Geologic time:
+    How do we measure time?
+    How old is the earth?
+
+    In 1785, James Hutton pioneered the concept of geologic time
+
+  Uniformtarianism "the present is the key to the past"
+                    Processes operating at same rates today as in the past - Geologic Time
+
+  Carbon dating - Measure time with radioactive isotopoes (same number of protons, differing number of neutrons)
+
+  Stable isotopes do not decay over time 
+  radioactive isotopes decay
+
+  Radioactive decay:
+    Parent isotope --> daughter isotope
+
+    Rate of decay - described by half life:
+      Time required for 50% of parent to decay from previous value (100% to 50% to 25% to 12.5%)
+
+    Looking at the decay rate of the daughter isotope we can find find the age of that isotope
+
+    Different "clocks" for each elements (each element tells you how old it is, thus, different clocks or records of time)
+
+  Oldest Known mineral on earth:
+    4.4 billion years ago
+
+  We can also measure time by dating meteorites:
+    oldest meteorite formed at the same time as earth 4.5662 billion years ago
+
+January 20 2023:
+  Date meterorites formed - once again, same time as earth formed
+
+  Four topics today: A. Origin of the solar system
+
+  The sun: 
+    plasma made up of H and He 
+
+    inner planets: clostest to sun classified as "rocky" plants
+                    (Si, O, Mg, Fe)
+
+    outer plants: further from sun -> gas planets (mostly H and He)
+
+    Why this distribution of plants
+
+    Nebula hypothesis:
+      Started as cloud of interstellar gas
+
+      1. Cloud - contracted under their own weight
+          (clouds of more weight will begin to pull more things given its gravity)
+          (This pulling force causing angular momentum)
+
+      2. Forms solar nebula:
+          A flat, rotating disk with matter concetrated at the center that will 
+          become the proto-sun
+
+      3. Condensation in disk surrounding protosun 
+
+      4. Accretion - gas and dust forms grains collide and clump together
+          into larger chunks (planetesimals)
+          (terrestrial planets grew by accretion of planetismals)
+
+    Formation of the moon:
+     1. Theia collided with infant Earth
+     2. Debris from collision into orbit 
+     3. Debris from collision collapses into orbiting disk 
+     4. Debris accretes to form moon 
+
+     Age of earth: 4.56 
+
+     Oldest rocks on moon: 4.51 
+
+     Moon thus formed shortly after earth 
+
+     Late Heavy bombardment:
+      Cratering of the moon's rufaces indicate planets sweeping up 
+      remaining debris (accumulation)
+
+    Last step in origin of the solid earth - planetary differentiation
+      distribution of elements within a planet is roughly the same 
+      everywhere 
+
+    (1) After initial formation interior heats up from:
+      - radioactive heats
+      -impacts
+
+    (2) Heavy elements melt and sink, lighter elements rise
+
+    (3) Differentiate plants into lithosphere, mantle, core
+
+
+  January 23 2023:
+    La nina
+    ....
+
+    el nino 
+    .....
+
+
+    The origin of life:
+      Abiogensis (chemical evolution):
+        The idea that life evolved spontaneously from inorganic/inanimate compound through self-organization
+
+        "Life was thus an almost utterly improbable event with almost infinte oppurtunities of happening. So it did"
+
+        Started with primordial chemical diversity
+          - polymers
+          - chiral selection 
+          - self organization 
+          - prokaryote 
+          - eukaryote
+
+
+        85% of life's history left no direct record
+
+        oldest fossiles:
+          0.54 Ga 
+        Oldest evidence of microbial life:
+          3.5 Ga Strotomalites
+
+        How did life begin?
+
+          The outcome of life right now:
+            (all life on earth started from one blueprint)
+            - is Cellular
+            - Same groups of molecules
+            - Same chemistry
+
+          Same molecules:
+            Carbon is the basis on all life on earth (organic if it contains carbons)
+            Also H, N, O, P, and S
+
+            Amino acids:
+              building blocks of protein
+              Organic compounds 
+              universal component for living things -> This unity suggests one common ancestor
+
+              Two types:
+                L amino acid, D amino acid 
+
+                chemically identical but mirror images of each other structurally
+
+                Life exclusively uses the L amino acid
+                 (we dont understand this yet)
+
+                L amino acids could turn in D amino acids and vise versa (what the fuck)
+
+                Miller urey experiment (primordial fluid):
+                  (Kinda unrelated but there was no oxygen in this environment)
+
+                  - They tried to simulate early earth and fed in foundational chemical molecules
+                  - Over 20 different amino acids formed 
+
+                Self assembled cellular containers or "proto-cell"
+                phopholipid bilayer formed!!!!!!!!!!!!!!!
+
+            Same chemistry:
+              Enzyme -> acts as a catalyst for chemical reactions (speeds up reaction... I already know this)
+
+              2018: Nobel prize in chemistry 
+                    For this person's work on "directed evolution of enzymes"
+
+                    ....ALL design is evolutionary
+
+          So where did life begin....
+            1. primordial life 
+            2. hydrothermal vents
+            3. panspermia
+
+          (1) - Primordia Soup:
+            - all these building blocks.. methane, ammonia phosphoric salts 
+            - extremeophiles
+
+          (2) Deep sea Hydrothermal vents (Black smokers):
+                - These vents create complex ecosystems around them 
+                  (all you need is energy from heat and chemical energy)
+
+          (3) - life orginated from SPACE ????????? ALIENSSSSSS 
+
+              2500 years of panspermia hypthesis:
+                500 BC seed of life 
+                ...
+
+              some meteorites have a dominant amount of L amino acids
+
+              Life originated from another planet? Could life also arrive on other planets?
+
+              The "rogue" martian meteorites
+                Electron microscope showed signs of microbial life (a martian!!)
+
+                Life elsewhere in the universe is not constrained to one origin 
+                  - could be panspermia, primordial soup, idk
+
+
+January 25th 2023:
+  Phanerozoic: Visible life 
+
+  Proterozoic 
+    Earlier life 
+
+  Precrambian:
+    Cenozoic : "young life" 
+
+    Mesozoic: "middle life" 
+
+    Paleozoic: "old Life"
+
+    Precrambian
+
+  Life first diversified into eukaryote and prokaryotes
+    prokarytes take the majority of the living life here in numbers
+
+    prokaryotes (don't have a nucleus, literally just IB Bio)
+
+    Eukaryotes: have a nucleus
+
+    How Eukaryotes evolved to be that way:
+      Endosymbiotic theory 
+
+      Two prokaryotes: one eats the other but doesnt destroy it. the other one lives in the other and they both thrive
+      somehow 
+
+      Strotomalites are fossiles of single celled organisms in 3.5Ga rocks
+
+      likely that life on earth formed 3.8Ga~ ??
+
+
+      Carbon 12 is mostly abundant
+
+      Carbon 13 is not as abundant
+
+
+    Evidence of first life is not based on fossils, rather based on isoptopically light carbon in graphite
+      inorganic carbon: around 0%
+
+    Cambrian explosion 
+    1. Rapid increase in diversity 
+    2. Capabillity to make hard shells
+
+
+January 27th 2023:
+
+  microbial life:
+    How to microbiologists study microbes?:
+      microbiologists are faced with making a microscopic obesrvation of something extremely small
+
+      Use molecular signatures to study microbial diversity:
+
+      Central dogma of molecular biology
+        DNA makes RNA makes protein
+
+      This one scientist's algorithm was able to group human literature, each literature had its own genre assigned to it.
+      The same scientist used this system to group proteins
+
+      Life as we know it; mostly microbial
+
+      Life requires thermodynamic disequilibria in the environment to get and 
+      store energy 
+
+      life harvests chemical energy by coupling favorable pairs of oxidation and reduction half-reactions and uses 
+      energy to do work (they use ATP as the currency)
+
+      Notice how the equation is the reverse of each other
+
+      microbes are have mostly low activities in the deep earth
+
+      in summary:
+        molecular signatures explain the details 
+        Almost immortal
+        ....
+
+        methogenesis:
+          Microbes using hydrogen as their source of energy, producing methane
+
+Monday January 30th 2023
+  - Starting the diversification of the biosphere
+
+  Geologic time:
+    subdivided by changes in life caused by mass extinction 
+      (Animals respond to the climate system, they undergo large changes in evidence like fossil records)
+        FOSSIL RECORDS are a significant piece of information
+
+    Much of life's history, there was single celled organisms
+
+    There really is a phylogenetic tree of life
+
+    Evolution powers our biodiversity
+
+    Adaptation is the key behind evolution -> survival of the fittest
+
+    Evolution is not just a hypothesis, it is an experiemental observation
+
+    Two sides of the evolutionary Process:
+      - Origination of new species 
+
+      - Extinction of species 
+
+    There was a strong species diversification during the Cambrian explosion
+
+  Mass Extinction:
+    Loss of a lot of life at once
+
+    Increases the rate of evolution
+
+  There has been 5 mass extinctions in our geologic RECORDS
+
+  The largest mass extinctions divide the eras of life
+
+
+
+  Comparing the eras:
+    Paleozoic: marine dominant 
+
+      Permian Triassic extinction event 252 Ma
+
+    Mesozoic: a lot of dinosaurs
+
+    THIS WILL BE ON THE EXAM
+      Creteaceous-Paleogene extinction event 66Ma
+
+    Cenozoic: a lotta mammals
+
+
+Origination rate: number of new species over time 
+
+Extinction rate: overall loss of species over time
+
+What caused these mass extinctions:
+  
+  Two leading hypotheses:
+    
+    Volcanism 
+
+    Impact event
+
+  Volcanism definition:
+    Large and rapid release of lava to earth's surface 
+
+    Formation of a LIP:
+      1. Plum forms at core mantle-boundary 
+
+      2. Rises Buoyantly up through mantle 
+
+      3. Plum reaches base of lithosphere, flattens 
+
+      4. Lava erupt to to earth's surface through fissures form "flood basalts"
+
+      Siberian Traps:
+        enough lava erupted to cover earth up to 20ft 
+
+        Eruption through an existing coal seem
+
+      There is a strong correlation between LIP and mass extinctions
+
+      Environmental consequnces:
+        Co2 -> warming -> oxeanic hypoxia (low oxygen)
+
+Febuary 1st 2023:
+  Once again, two leading hypotheses:
+    Volcanism and impact event (asteroid)
+
+    The "great dying" mass extinciton at time of siverian LIP
+
+      Around 95% of marine species were eliminated
+
+      the K-pg mass extinction eliminated 75% of species
+
+      4 evidence types for impact event:
+        - iridium (Underwent planetary differentiation, asteroids have them beause they are too small to differentiate)
+        - shocked quartz (only forms at very high pressure)
+        - tektities (formed from molten rock droplets)
+
+      Where did that large asterioid impact earth 66 million years ago?
+
+      Environmental consequences:
+        1. Energy released 
+        2. Regional:
+            - Earthquakes (>10 magnitude)
+            - Tsunamis
+        3. Global:
+            Vaporize rocks - Co2 sulfric accident
+
+
+  K-pg extinction:
+    A double wammy of LIP and an asteroid event
+
+    The K-pg was the only one with strong evidence for impact
+
+    Was the permian triassic extinction also a double wammy?
+
+  We gotta think about reccurance intervals when discussing impact events:
+    big ones happen +/- 100 million years
+
+February 3rd 2023:
+  Evolution of the atmpshere:
+    The composition of the atmoshere has changed; 4.5Ga ago we didnt even have an atmosphere
+
+  Volatiles:
+    A chemical compound with a relatively low boiling point
+      (these are liquids that turn gaseous at room temperature)
+
+    Large atmospheric changes in 3 stages 
+    1. Prebiotic - no life, so no oxygen; 
+      Volatile degassing from planetary interior
+        Volcano degassing or impact degassing
+
+        Mantle volatile degassing is part of planetary differentiation 
+
+        Comets played a key role in providing water to the planets. Isotope ratio of oceans is similar to that of Comets
+
+        oldest mineral known on earth has evidence of liquid H20 
+
+        Origin of life - major factor in subsequent changes in atmospheric composition
+
+    2. Biotic - pre oxygen
+      at the time of origin of life, oxygen was a toxin
+
+      the primary forms of life before oxygen was METHANOGENSIS -> anoxygenic photosynthesis
+
+      Methane is a byproduct 
+
+      Early atmosphere was concentrated with methane
+
+    3. Biotic - oxygenated 
+      Cyanobacteria evolution, performing photosynthesis where oxygen is a byproduct
+
+      The great oxidation event occured 2.4Ga years ago !!!
+
+      The real question is: how did we know this happened... USING MINERALS AND ROCKS AS INDICATORS
+
+    REDOX REACTIONS:
+      
+      The GOE (great oxidation event) changed earth's surface chemistry
+
+      This was facilitated by redox reactions because more oxygen led to a more oxidized environment
+
+      - interior of earth is reduced
+      - hydrothermal vents but Fe(II) in ocean 
+      - early ocean was anoxic 
+      - oxygen in surface ocean goes and oxidates stuff
+
+    Banded iron formations:
+      Red areas indicate a point of time where the rocks became very oxygenated (rust)
+      the black bands indicated no redox reactions occured
+
+      Decrease in methane and Co2, as a result of increased Co2 
+        Co2: buried in ROCKS
+        methane: short life time in the atmpshere
+
+      Summary:
+        Prebiotic - 4.5-3.8 Ga 
+        Biotic - preoxygenated 3.8 - 2.5 Ga
+        Biotic - oxygenated 2.5Ga - present
+
+        Have 300x as much carbon than oxygen
+
+        The ratio of carbon to oxygen is 1:1
+
+
+    LIFE's BATTERY
+      We have a biosphere and oxygen 
+
+      Surface oxidations takes a lot of oxygen, the biosphere, however, removes carbon through getting buried in sediment
+      after dying. Oxygen is always there, but life is continously removing carbon
+
+
+MIDTERM EXAM ON FEB 10TH 
+
+CONTENT:
+WEEKS 1-4
+
+      3 short answer
+      3 list questions
+      6 short answer questions
+        - Explain how the greenhouse effect works
+
+____________________________________________________
+
+Plate Tectonics:
+
+  "geology" of the class 
+
+  Contintental drift:
+    Precursor to plate techtonics
+    propopsed in 1912 by alfred wegener
+
+    Fit of coastline and similar rock types of each continent leads to the idea that the continents were one unit
+
+  Problem:
+    how the fuck did the continents move??
+    
+  Plate techtonics:
+    General hypothesis:
+
+    Plate techtonics:
+      General hypothesis:
+       1. lithosphere comprised of several planetes 
+       2. plates move relative to each other 
+       3. continents ride "piggyback"
+       4. motion driven by convection
+
+    Three types of plate boundaries:
+      Divergent plate boundary:
+        - spreading 
+        - mid-ocean ridges
+        - new crust is created
+
+      Transform plate boundary:
+        - horizontal movement 
+        - no crust created or destroyed 
+
+      Convergent plate boundary:
+        - subduction
+        - crust is destroyed
+
+
+
+where does oceanic crust form, and where is it destroyed?
+  forms from mid ocean ridges (Divergent zones)
+  and is destroyed at subduction zones (Convergent zones)
+
+Does continental crust behave in the same way (in the conveyor belt cycle):
+  Continental crust doesnt necessarily have the conveyor belt process, but the removal of crust is throuh
+  erosion, so they relatively the same in their end goals
+
+Why is the oldest oceanic crust older than continental crust?
+Formation of conintents happened a lot after the formation of oceanic crust due to mid ocean ridges
+
+Where is the ocean the deepest?:
+  The convergent boundaries, there is a downward slope down
+
+  Order these by density from least to greatest:
+    higher up you are, the lower density it is 
+
+    continental crust, oceanic crust, asthenosphere
+
+  Continental rock is usually granite (2700kg/m^3), while oceanic rock is basalt (2900kg/m^3)
+
+  continental crust is kinda like a leaf floating in water.
+
+1940s-60s:
+  Proving plate techtonics:
+    1. mid ocean ridges
+    2. deep sea trenches
+    3. distribution of earthquakes
+      Pacific ring of fire
+    4. distribution of volcanoes
+    5. Earth's magnetic field and paleomagnetism
+      - ID's magnetic field reversals
+
+February 13th 2023:
+  Global warming
+  - Climate System
+      Forcing - interection - variations
+
+  Timescales of climate change: slow
+    260 Ma: Pangea 
+
+    65 Ma: Current continental layout
+
+  Timescales of climate change: fast
+    El nino - La nina (2-7)
+
+  Timescales of climate change:
+    tectonic (>1 Myr), orbital(10 kyr - myr), millenial (0.5 - 101), dec-cen
+
+  Climate "forcings"
+    Mechanisms that cause climate change:
+      Example: changes in the sun
+  
+  Climate forcings:
+    Timescale:
+      - tectonic
+      - Orbital 
+      - millenial
+      - decadal-centennial
+
+  The main way the plant processes energy is the greenhouse effect:
+    Most of earth's energy absorbed as short wavelength energy !!!
+
+  Total amount of carbon is fixed 
+  carbon is divided over several reservoirs (source of carbon is vegeatation)
+  only carbon in the atmpshere contributes to warming
+
+
+  During the summer, the earth is breathing it a lot of carbon; in fall and winter, organisms die and they release their carbon
+
+
+  Biosphere, lithsosphere, atmoshere are the resovoirs involved in burning fossil fuels
+
+  Long term carbon cycle:
+    1. chemical weathering:
+      Dissolving minderals in presence of water and co2, which creates dissolved products.
+      Dissolved products are carried by rivers to ocean
+
+    2. ocean mineralization: 
+      In ocean, used by organisms to make shells (resources are broken down on land and utilized my marine species)
+
+    3. volcanic degassing: 
+      plates are pulled under through plate techtonics, melted, and remitted as co2 through volcano magma
+
+February 15th 2023:
+  
+   long term carbon cycle is a negative feedback loop:
+      Increased carbon burial through chemical weathering, earth cools down but is then regulated by volcanic degassing
+
+    the rate of volcanic degassing is controlled by the plate movements into subduction zones
+
+
+    Increasing chemical weathering:
+      1. increase temperature
+      2. increase mountain building
+
+
+I MISSED LAST LECTURE FREE MEEEEEEEE (GONNA THE NOTES TODAY FOR THAT) (I lied but ill do it today I think)
+
+February 20th 2023:
+
+  Ice Ages:
+
+    Deep ocean temperature has a strong correlation to glaciation
+
+   East Antartica has more ice sheets, while west Antartica has a lot less. 
+
+   West antartica is being studied rn because it is primarily below sea level 
+
+   Why is the last glacian maximum almost equal to the modern glacial maximum?
+
+   Antartica is at its maximum because there cant be expansion of sea ice. you need land to 
+    grow ice on, but antartica is already expanding on the sea.
+
+  Modern landforms have much to do with glaciation. The great lakes, for example. 
+
+
+When warming stops, sea level will continue to rise because it is still rising in response to past warming
+  Global sea level was 120-130m lower than it was today 
+
+  oregon - washington coast 
+
+  I fucked up bruh - holy shit I fucked up. from future me, nah you didnt - you're fineeeeeee
+
+  How did we end up in the ice ages?:
+    Orbital Variability:
+      1. Eccentricity - how elliptical the earth's orbit is (the shape of earth's orbit) (100,000 years)
+        Give less radiation of earth - earth is farther away; the energy is being distributed over a larger area 
+
+      2. Obliquity - The tilt of the earth (Basically earth's axis going back and forth) (41,000 years)
+9
+      3. Axial Precession (The wobble of earth's axis) (Basically the axis wobbling n shi) (23,000 years)
+
+
+    Obliquity causes the seasons - The strength of tilt equals the strength of that season 
+
+    only thing that changes the amount of solar energy in the planet is Eccentricity
+
+    need colder summers to grow ice sheets in northern canada
+
+      1. Summer season = melt season of glacier 
+
+      2. Cooler summers - less melting - ice grows 
+
+      3. Warmer summer - ice melts - ice retrears 
+
+    1. Northern hemipshere changes most during glacial cycles because more land to grow ice one
+
+Wednesday February 22 2023:
+  Speleothems:
+    Greek words: meaning cave and deposit 
+
+    Are secondary mineral deposits on the ceilings, walls, and floors of caves
+
+    Calcarous spleothems are the best at recording climate information 
+
+    Spleothmes are basically fossilized water
+
+
+    Where to find them:
+      found in caves located in carbonate bedrock
+
+    formations of Speleothems:
+      - Flowstone
+      - Stalagmites 
+        ....
+      - Stalacites
+        oldest layers are at the center
+      - Flowstone
+
+
+    Formation of a Speleothems:
+
+      we need liquid water to form speleothems
+
+      - Soil zone
+        - need soil to make raindrop slightly acidic 
+      - Dissolution
+      - Precipitation
+
+    freezing temps
+      - prevent speletothems
+
+      - speleothmes cannot grow during inerglacial periods (water frozen !! oh my godd)
+    Proxies:
+      mineraology 
+      growth phases
+      growth rate 
+      oxygen isotopes 
+      carbon isotopes 
+      deuterium
+      trace elements
+      pollen
+      flood layers
+      broken
+
+   chinese monsoon:
+    changes in solar radiation are due to due to changes in distance from earth to the sun
+
+  How we date Speleothems
+    - Uranium-Thorium dating
+
+    Uranium is soluable and thorium is insoluable
+
+    We check the ratio of Uranium-Thorium ratio to verify age 
+
+
+February 24th, 2022
+
+Time scales of climate change: 
+tectonic, orbital, millenial, dec-cen 
+
+Different time scales have different forcings of change: 
+CO2, seaways, sun, ocean-ice, ocean-atm, volcanoes 
+
+Paleoclimate proxies: 
+climate proxies are an indirect source of information used to estimate climate conditions prior to direct observations
+
+natural archives: 
+ocean and lake sediments
+tree rings
+ice cores
+speleothem (cave)
+human archives: 
+  paintings
+  harvest dates
+  ship logs
+
+tree rings are the youngest, while ocean sediments are the oldest
+
+More years is less specificity = less resolution 
+
+less years show more detail on seasonal patterns: higher resolution
+
+todays focus: ocean sediments
+
+foraminifera are microorganisms with calcium carbonate
+  - they are incorporating carbon isotopes into their shells (carbon isotops tell if something is organic or not)
+
+When evaporating lighter oxygen 16, they are built up and locked away into ice sheets. The ocean will have a lot of heavier
+isotopes instead. Thus, when the ice sheets melt, lighter oxygen 16 become free. The ratio of heavy to light istotopes is more 
+skewed to being heav
+
+Monday Febuary 27th 2023:
+  Ice core records of climate change 
+
+  Antartica holds 58.3 meteres of sea level
+
+  In wood, as you go torwards the center, you are heading to older timelines
+ 
+  Antartica goes back 800,000 years
+
+  Orbital, Millenial, and Dec-en time scales apply to ice cores
+
+  What can we actually learn from ice cores records?
+    - WATER ISOTOPES
+      Low amounts of oxygen 18 compared to 16 (Rayleigh distillation of water vapor)
+      Oxygen 16 likes to get evaporated
+    - Chemicals and the dust
+    - Gas Bubbles
+
+  Relationship between Antartic ice cores water isotopes and in marine organisms
+
+  If you want to change the isotopic signature, you have to get it from somewhere
+
+  Chemical impurities in ice:
+    Na - Sodium 
+    Ca^2 - Calcium 
+    SO4^2 - Sulfate
+    NH^4 Ammonium
+
+  Volcanic Deposits in Ice Cores:
+
+    
+During which season will the d18O of snowfall be most negative? And most positive?
+
+As you incease temperature, delta 18 Oxygen increases as there is more energy...
+
+Why do we call d18O in ice cores a proxy for temperature?
+signifies relevant temperature
+
+  What we can learn from ice cores continued:
+    Firn:
+      the upper lower of an ice sheet where snow turns to Ice
+    Gasses in ice cores:
+      Bubbly ice melting for a measurement of CH4
+
+  Ice cores show what exactly is the naturally occuring global temperature increase:
+    Ice core records give context in the past, so we can use the past as a reference
+
+
+March 1st 2023:
+  Water isotopes are a temperature proxy
+
+  Low 18 Oxygen --> low temperature
+  High 18 Oxygen --> high temperature
+
+  We warm very quickly, but cool very slowly
+  Negative feedback loop, earth wants to go back to 
+
+Global overturning circulation of the ocean:
+  Goes around antartica, warms upwards (look how florida)
+
+  Pacific will be a lot colder than the Atlantic
+
+  Pacific is also a lot less salty than the Atlantic
+
+  Taking fresh water from the atlantic, and dumping it in the pacific
+  (This is why the atlantic is more fresh)
+
+ Is there anyplace in world’s oceans where surface waters can become dense enough to sink?
+  Only two places – North Atlantic Ocean and around Antarctica.
+
+AMOC = 
+Atlantic 
+Meridional
+Overturning
+Circulation
+
+This current, AMOC, transports heat to high latitiudes
+  Heat is released to the atmposhere as ocean water cools
+
+What if AMOC stops:
+  Heat no longer flows north (high latitudes)
+
+Historically cold periods have to do with weak AMOC. If AMOC becomes strong, the heat is deposited in higher latitudes and thus
+more warming
+
+AMOC turns on very quickly but takes a long time to slow down
+
+(Dumping fresh water in the north would just make the southern hemipshere warmer)
+
+Deepwater formations is sensitive to freshwater inputs
+
+if we are taking energy to warm the northern hemipshere, the energy must come somewhere
+  energy comes from the southern
+
+Friday March 3rd
+The past and future goals of global sea level:
+sea level rise: about 200mm (8 inches) since 1990
+
+1. Thermal expansion of water
+2. Melting of land-based ice
+
+  (Look how greenland and antartica are exponensially increasing, positive feedback loop!)
+
+  Since 1992: 3mm / year (1.2 inch/decade)
+
+  When did this rise begin:
+    Sea level rise in the Mid 19th century
+
+  GRACE - Gravity Recovery and Climate Experiement
+    - Distance between the two satellites very accurartely measured
+
+    - detect changes in earth gravitational pull
+
+    - can weigh the earth
+
+  Metling mass per year:
+    Greenland:
+      0.8 mm/year 
+    Antartica:
+      0.35mm/year
+
+    Calving front retreat of Greenland glaciers
+
+    Antartic Ice Mass Loss:
+      The west side is losing a lot more than east (east is even gaining ice!)
+
+    Using corals to reconsutrct sea level:
+      Certain types of coral only grow in upper few meteres of oceans
+
+      By dating coral reefs, we can reconstruct past sea level
+
+      Last interglcial: global sea level was 5 to 9 meters higher
+
+      Where did 6m of sea level come from:
+
+    Why west antartica:
+      bedrock is below sea level
+
+
+In 2016 the global average temperature was over 1oC warmer 
+than the 20th century average. This temperature is comparable to the 
+last interglacial. Why don’t we have 6 m sea level rise yet, like during 
+the last interglacial?
+
+  Too fast for the system to respond to this rapid warming, at some point we will probably see the same changes thousands of years
+  ago. We are not heating the ocean and land eqaully. We need to wait for the ocean to undergo thermal expansion still
+
+
+  Sea level responds SLOWLY to temperature
+
+  When warming stops, sea level will continue to rise because it is still rising in response to past warming
+
+
+MISSED LAST LECTURE FUCK ME
+
+Guest lecture Wednesday March 8th 2023:
+  IPCC (intergovernmental panel on climate change)
+
+  The IPCC is made up of the world's governments; it was established in 1988
+
+  Objective:
+    provide goernments at all levels with regular assessments of our understanding of climate change that they can use to..
+    They never tell governments what to do 
+
+  assessments are written every few years by scientists nominated by their governments and selected by IPCC to serve as coordinating 
+  lead authors or lead authors
+
+  "We are not doing the research, we are publishing the assessed literature"
+
+  assessments are organized into three working groups:
+    The physical science basis
+    impacts, adaptation, and vulnerability
+    Mitigation and...
+
+  Each assessment report has fed directly into international climate policy making
+
+  Article 2 of the UNFCCC treaty: 
+    aiming to achieve stablilization of greenhouse gas concentrations at a level that would prevent dangerous anthroprogenic interference with 
+    the climate system
+
+  TAR: focused oin the impats of climate change
+
+  AR4: Laid the groundwork for a post kyoto agreement, focused on limiting warming to 2C
+
+  1750: Beginning of the industrial revolution, and the beginning of large scale carbon emissions
+
+  ar5: provided the scientific input into the 2015 paris agreement to limit warming to below 2C
+
+  ar6 (2022): Stay tuned...
+
+  The IPPCC Process:
+    authors were selected 
+    had 5 meetings, where the authors will meet 6 days at a time and work together on each chapter
+
+    The final meeting: Plenary meeting where select authors would attend and present to 2 delegates a summary for policy makers
+    a summary for policy makers presents the most policy relevant information 
+
+Friday March 10th 2023:
+
+Guest Speaker Invited to author of Sixth IPCC
+
+Studies migration resulting from climate change and changes in habitability
+
+Worked on working group 2 (the impacts to people and ecosystems)
+
+Sectoral Chapters: Terrestrial and Freshwater ecosystems
+                   Oceana nd coastal ecosystems
+                   food systems and other key ecosystems
+
+                   1) Key terms
+                   2) 6 take-aways from the IPCC
+
+              Key Terms:
+                Exposure (To measure exposure we think of frequency, intensity, or magnitude)
+
+                Impact (adverse consequence of climate change)
+
+                Risk (Probability of an impact)
+
+                vulnerability (A specific community's propensity to experience harm)
+
+                Adaptation (adjustments that reduce risk and leverage potential benefits)
+
+                Resilience (Stability of a system, ability to maintain structures, functins and identity)
+
+          Take away #1:
+            Climate is a powerful influence on how we leave and what can survive
+              Beyond 1.5 - 2 Degrees Celsius is when DANGEROUS anthroprogenic impacts occur
+
+          Take away #2 
+           Even temporarily exceed 1.5 degrees C of warming will result in severe and often
+              irreversible impacts, especially in nature.
+
+          Take away #3
+            Human induced worldwide climate change is already affecting billons of peoples' lives and 
+            livelihoods, and the natural world
+
+
+          Levels of migration:
+            Local, internal, regional, global
+
+            Types:
+              Voluntary
+
+              Involuntary
+
+          Take away #4:
+            In the next 20 years, we will all face sybstantial increased risks from climate change, some more than others
+
+          Take away #5: 
+          The close connections between people, nature, and climate come in to even sharper focus when we look 
+          beyond 2040
+
+          Take away #6:
+            Through --climate resilient development-- we can tackle many of the biggest global challenges and threats at once 
+
+
+
+Changes the energy earth is receiving based on its orbit around the sun
+  (1) Eccentricity - Change in the shape of earth's orbits
+
+  (2) Obliquity - Change in tilts of Earth's axis
+    Energy is dependant on the distance from the source, and the surface area its hitting
+
+  (3) Precession - Change in orientation of Earth's axis
+      Precession and Eccentricity have to work together for earth's climate
+
+    Increase title "Extreme Seasons"
+
+    No tilt "no extremity in seasons"
+
+  Changing amount of energy on earth has an impact on all of earth's systems
+
+
+
+  Schematic of plate motion:
+  
+  Divergent plate boundary:
+    spreading
+    Midocean ridges: materials are forced upward
+    new crust is created
+
+  ....
+
+  ....
+
+  Long terms carbon cycle:
+    1. Chemical weathering
+      acidic rainwater dissolving minerals
+    2.  
+    3. volcanic degassing
+
+
+ice sheets: more positive 18 oxygen
+marine organisms: more negative 18 

@@ -1,0 +1,263 @@
+April 4th 2023:
+  TA Grades most stuff
+  
+  Learning Outcomes:
+    Describe the physiographic setting of the PNW
+    characterize the climate of the PNW
+    Descsribe the population distribution of the PNW 
+    Differentiate between climate change adaptation and mitigations
+
+    Where is the pacific northwest: 
+      Washington, Oregon, Idaho
+
+    The land cover between the west and east are different; for example, west is greener and east is browner 
+
+    Snow cover is more prominent in the east than west
+
+    The pacific ocean moderates the temperatures on the coastline. On average, the temperatures would not be as extreme 
+    as other midwestern states since they dont have an ocean
+
+    The pacific ocean is really C O L D, which also cools the pacific northwest
+
+    The rainshadow effect:
+      you some mountain range that is changing the range of precipitation in an area
+
+      All the air cools as it travels up on a mountain and then precipitates. when the air comes down it becomes warmer and
+      very little precipitation occurs
+
+      rainshadow effect becomes more exaggerated as the rainshadow effect becomes greater
+
+      Climate Types of the Northwest: 
+        Marine West Coast 
+        Subartic
+        Warm Summer Continental 
+        Warm-summer mediterranean 
+        Cold-arid/ Steppe
+        Midlatitude / Code Desert
+
+      Population in the PNW: 
+        12 million residents in just OR and WA 
+        Most live along I-5 corridor 
+        Population doubled since 1970
+
+        NW growth rte twice the national rate
+
+        What does a growing popi;lation mean?
+          4% of pariarie and savannas left in the Willamette Valley 
+          over 70% of the NWs orginial old growth conifer forset lost 
+          50% of the Puget Sound shoreline modified
+          75% of saltwater marsh habitat destroyed
+          Over 20 salmon/Steelhead specie sextinct or endangered
+
+        adaptation:
+          The process of adjustment to actual or expected climate and effects 
+          "Changing your own behavior to avoid potential harm"
+
+        mitigation
+          A human intervention to stop the change 
+          "Reducing the source and enhancing the sinks if greenhouse gases"
+
+
+  my own definition:
+    adaptation is an action taken to reduce one's vulnerabiliity to climate change impacts. This results in finding solutions 
+    to coexist with climate change impacts or completely avoids them. Adaption is a response 
+
+    mitigation is actions taken to directly reduce carbon emissions. This is a direct solution to climate change. We can perform 
+    this by reducing the sources or enhancing the carbon sinks
+
+
+    There is a more adaptation options than mitigation efforts. This is because mitigation requires actions on a global level
+
+    Adaptation Cycle:
+      1. Understanding
+        Detect problem 
+        Gather/use information
+        (re)define problem
+      3. Managings
+        Develop options
+        Assess....
+      2. Planning
+
+  Different strategies come in at different stages of climaet change, and there is no one single "cure all" solution
+
+  Adaption and mitigation go hand in hand
+
+    "Efforts at mitigation could not stand alone unless adaptation was successfully implemented"
+
+
+What is an energy budget?
+  Energy in = Energy out
+
+  (How is Earth's energy being allocated?)
+
+  if we have more energy coming in than out, earth heats up
+  vice versa is true as well
+
+  incoming shortwave radiation is mostly transparent to greenhouse gasses. However, outgoing longwave radiation gets absorbed 
+  by greenhouse gasses
+
+  Having no atmosphere would prevent Earth from being in equilibrium
+
+
+  What's in our atmosphere:
+    4. carbon dioxide 
+    1. nitrogen 
+    3. water vapor
+    2. oxygen
+    methane 
+    ozone
+    hydrogen
+    CFCs
+    carbon dioxide 
+    argon helium
+
+
+  99%: nitrogen, water vapor, oxygen
+
+  1%: Rest of the gasses
+
+  Its surprising because carbon dioxide is not very prominent, but it doesnt need to be very abundant to affect the Climate
+  system as a whole.
+
+  Less stuff gets reflected back out because the atmosphere absorbs outgoing longwave radiation. The atmosphere is gonna
+  re-radiate
+
+  1. Incoming solar radiation 
+  2a. Immeadiatly reflected solar radiation
+  2b. Solar radiation absorbed by Earth's surface (warms earth's surface)
+  3. Surface radiation reflected back
+  4. Outgoing solar radiation and back radiation (greenhouse effect because greenhouse gasses are absorbing this radiation)
+
+  Why does the climate change:
+    climate forcings: external factors
+
+    radiative forcings = difference between incoming absorbed and emitted outgoing radiation
+
+    External - come from outside the climate system
+      - changes in solar output (eccentricity, obliquity, precession)
+      - volcanic eruptions
+        They're random n shi
+      - Man made greenhouse gasses
+        - adding more ghgs to earth's atmosphere throws off earth's energy budget
+    Internal - occur within the natural climate system:
+      - changes to water vapor concentration
+        water vapor can act as a runaway greehouse gasses
+
+    What is albedo:
+      How white an object is determines how effective it is at reflecting sunlight 
+
+  Review of last class:
+    Earth wants to be in aradiative equilibrium 
+    IN = OUT
+
+    Temperature will change when forcing causes in > out or in < out (decreases)
+
+    Adding greenhouse gases to the atmosphere causes:
+       in > out, Earth will warm up
+
+
+There are many uncertainties - this doesnt mean they dont know, there's just a lot of possibilities
+
+climate sensitivity describes the amount the earth will warm in response to increase in anthropogenic carbon dioxide
+
+  equilibrium climate sensitivity: The amount of warming if we doulbe CO2 and then wait for the world to come back into 
+  equilibrium
+
+  RCP (Representitive concentration pathway). Different greenhouse gas mitigation pathways and their projections for the future. 
+
+  Precipitation changes are very unpredictable, especially because of topography changes
+  
+Summary: Temperature is expected to warm everywhere in the Northwest
+  West of the cascades wil warm slightly less due to marine influence
+  
+  heat extremes will incfeease and measures of cold extremes will decrease 
+  
+  Extreme precipiatios events are expected to increase but more dffficult to project annual or seasonal changes
+
+25 April 2023:
+  Where can water be stored on Earth 
+    - Clouds (atmosphere)
+    - Biosphere 
+    - Cryosphere (permafrost)
+
+    Basic hydrology concepts:
+      Stores:
+      - where water can be stored for some time period
+      Fluxes:
+      - move water between stores
+
+    Global water stores:
+      Oceans 96.5%
+      Ice 1.9%
+      Groundwater (non renewable) ~1.6%
+      All other stores combined < 0.1%
+
+    Global fluxes:
+      - Ocean precipitation and evaporation are largest
+      - on land, evaporation is greater than river discharge
+
+    The watershed:
+      - An uphill area that drains to the same location
+
+        Example: columbia river - draining to pacific ocean
+
+      Watershed math: All water must "Go" somewhere
+
+      Equation: P = Q + ET + ΔS
+
+      P = precipitation
+      Q = discharge
+      ET = evapotranspiration
+      ΔS = change in storage
+
+    PNW Precipitation:
+      Amount and phase vary and are important to water resources
+
+      Precipitation is greater on the west than the east side because of rain shadow effect
+
+      Discharge is the most reliably measured flux
+
+      built resovoirs assists in creating large-scale infrastructure
+
+      EXTRA CREDIT OPPURTUNITY:
+        TUES MAY 2 11AM-12PM Burt 193
+        THURS MAY 4 11AM-12PM Burt 193
+        TUES MAY 9, 10 - 11AM, BURT 193
+
+
+        SUBMIT 1 PAGE WRITTEN FEEDBACK
+        UP TO 20 POINTS EXTRA CREDIT
+        5 POINTS FOR ONE, 12 POINTS FOR 2, 20 POINTS FOR ALL THREE
+        DUE SUNDAY MAY 14TH
+
+
+    Irraated agriculture:
+      Makes up 90% of consumptive water use in the columbia river basin
+
+      Anticipate needing 16.8 billion m^3/year of water by the year 2030
+      which represents a 2.2% increase
+
+      Freshwater aquatic ecosystems:
+        August air & stream temperature 
+        Salmon may not be likely to survive
+  
+  What is an estuary:
+    Locations where freshwater from a river meets and wmixes with salt water from the ocean - "brackish"
+
+    Experience frequent and predictable changes in salnity, water levels, sunlight, oxygen due to ocean tides.
+
+
+    estuaries are controlled by riber discharge, sea level rise, storm surges, and ENSO
+
+    ADAPTATION, MITIGATION, OR BOTH? 
+      - mitigation -> correct 
+      - adaptation -> both 
+      - adaptation -> correct 
+      - mitigation -> correct 
+      - adaptation -> both 
+      - adaptation -> correct   
+      - both?      -> both 
+
+      textbook - pg 91
+
+

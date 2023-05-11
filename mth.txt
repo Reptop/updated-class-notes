@@ -1,0 +1,9 @@
+new stuff Im actually learning
+
+d/dx e^x = e^x
+
+d/dx b^x = ln|b|
+
+4e^x + 35x^4
+
+4e^x + 140x^3

@@ -1,0 +1,51 @@
+INTRODUCTION:
+Global warming is a major threat to humans and the natural world
+
+Global warming basics: 
+The ultimate source of global warming is the burning of fossil fuels or 
+carbon based fuels such as coal, oil, and natural gas, which leads to
+emissions of carbon dioxide (CO2). Gases such as CO2 are called green-
+house gases(GHGs). They accumulate in the atmosphere and stay there for a 
+long time. The inital warming effects of climate change are amplified through
+positive feedback loops in the atmosphere, oceans, ice sheets, and biological
+systems. The resulting impacts include changes in temperatures as well as 
+impacts on temperature extremes, preciptation patterns, storm location and 
+frequency, etc. 
+
+Current climate change is caused by human activities. 
+
+The major driver of global warming is the emissions of CO2 concentrations from
+the burning of fossil fuels. 
+
+Impacts of climate change:
+    the major concern isnt temperature per se, but the impact this will have
+    on humanity.
+
+Concerns: 
+    Scientists are concerned about tipping points in the earth's systems.
+    This is essentially irreversible changes as systems cross thresholds
+
+Economic aspects of strategies to slow cliamte change:
+    - Mitigation: reducing Co2 and GHG emmisions. 
+    (This approach is expensive, however. Will cost 1-2% of world income)
+
+    We burn fossil fuels, we emit CO2 into the atmosphere, and this leads to 
+    harmful impacts. 
+
+    Those who produce CO2 do not pay for that privilege, and those who are 
+    harmed, are not compensated. In economics, unregulated markets cannot 
+    deal with externalities. 
+
+    IMPORTANT: Because there is a 0 price on the external damages of CO2 emissions
+
+Truth about climate change in economics:
+    For any policy to be effective, we must raise the market price of CO2 
+    and other other GHG emissions. Putting a price on Co2 corrects for the 
+    underpriced externalities of CO2. 
+    -- We can make CO2 regulated -- 
+
+    We could raise prices by putting regulatory tradeable limit on amount of
+    allowbale emissions (cap and trade). or by using a carbon tax. 
+
+
+

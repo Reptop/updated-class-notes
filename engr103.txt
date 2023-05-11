@@ -1,0 +1,44 @@
+May 8th 2023:
+  
+  Computer:
+    - Always has an operating system
+    - Usually has a display and lots of user interaction
+    - Designed to be general purpose
+    - In general, expensive
+
+  Embedded systems:
+    - NO OS
+    - Some user input but lots of sensors and data
+    - Dedicated purpose
+    - in general, inexpensive
+
+  We'll be using arduinos 
+    - specifically IDE's and Libraries
+    for hardware: we will be using an ESP32
+      - This includes wifi and bluetooth
+      - has a programmable USB cable
+
+      Back then, all logic was 5 volts but we scaled this down 
+      because of high power consumption
+
+      arduino 
+
+      void setup() {
+        //init code like vars, structs, and function prototypes
+      }
+
+      void loop() {
+        //main code
+      }
+
+      Serial Communication:
+        sending information...
+
+      UART:
+        uses 3 wires to connect two devices. For u, these wires are 
+        virtual and work over USB
+
+      UART talks at agreed on speeds and styles. This is just like
+      talking...
+
+          
