@@ -13,3 +13,4 @@ How will I financially recover from this???
 
 <img width="551" alt="Screenshot 2023-05-09 at 6 15 19 PM" src="https://github.com/Reptop/updated-class-notes/assets/36342803/ff3c620f-c654-450c-99b7-6e2de1eb0c3d">
 
+WHY IS THIS THE SAME THING????
