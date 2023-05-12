@@ -5,3 +5,8 @@ from 99% of the class I took here at Oregon State University.
 
 # My wife died
 How will I financially recover from this???
+
+# To do 
+- Your mom
+- Your dad
+- your extended family
