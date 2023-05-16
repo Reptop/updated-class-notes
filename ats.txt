@@ -260,4 +260,14 @@ Summary: Temperature is expected to warm everywhere in the Northwest
 
       textbook - pg 91
 
+May 16th, 2023 :(
+
+  Migration:
+    1 week delay in southbound migration
+
+  Breeding:
+    Reduction in calf numbers and changes in timing of occupuation of breeding lagoons
+
+  Feeding:
+    Feeding offshore of kodiak island
 
