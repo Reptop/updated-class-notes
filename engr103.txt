@@ -41,4 +41,9 @@ May 8th 2023:
       UART talks at agreed on speeds and styles. This is just like
       talking...
 
-          
+  Our digital output:
+    On the ESP32 using the Arduiono exosystem controlling a digital pin as an 
+    output is done in two steps:
+      1. configure the pin with pinModel()
+      2. Set the pin
+
