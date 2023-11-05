@@ -27,7 +27,7 @@ January 12th 2023:
 
     Audience - Consumers of said message 
 
-    Author - Who's writing it 
+    Author - Who's writing it
 
     Circulating everything above is the context
 

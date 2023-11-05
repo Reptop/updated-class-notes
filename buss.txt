@@ -1,0 +1,356 @@
+Sepetember 27th 2023:
+  - Read over course syllabus
+
+  - No textbook charge
+
+  - thinking about writing in the workplace 
+
+  - Will also do application writing/communication 
+
+  - informal writing and participation
+
+  - grading is similar to WR 327 (hopefully the experience is not as bad)
+
+  - learning outcomes are similar as well
+
+  - Attendance policy: There's in class activities, so even though there's no attedance policy, you still have to be there
+
+  - no slides posted... for some reason
+
+  - dont turn in stuff late as per usual
+
+  - end of each week, there's quizzes - end of each week same as before which is good
+
+  Thinking about the rhetorical setting is important - why is it important to communicate well
+
+
+okay this class is literally the same as wr 327
+
+Sepetember 29th 2023:
+  Effective communication is ALWAYS dependant on the rhetorical situation
+ear
+  Rhetoricial situation:
+    Message - purpose(s) of the Message
+
+    Audience - Consumers of said message 
+
+    Author - Who's writing it 
+
+    Circulating everything above is the context
+
+    Types of context:
+
+    physical location, 
+    what medium is the message, 
+    culture,
+    your field/discipline,
+    current events,
+    larger culture (international people)
+
+    Author:
+      Personality, Education, profession, personal experience, research documentation, is the writing objective/objective - for credibility
+
+    Message (purpose?): clarity, inform, direct/instruct/teach, persuade
+
+    Audience: (NEEDS - what do they know, what don't they know? - What do they need from this communication)
+              (When/where/why will this be used? - to finding the best medium to actually transmit this information)
+
+              (Attitudes - preferences, likes dislikes torwards topic, attitudes torwards the author (you), your organization)
+
+              (Values: core principles/beliefs)
+
+    Audience profile:
+      Different levels of audience: primary .... secondary
+
+  Informal communication:
+    Policy changes, manuals, etc
+
+  Negative communication:
+  Complaints, conflicts
+
+  Persuasive or Positive communication:
+    ....
+
+  Physical location: America. This is because America has a culture of excessively expensive healthcare 
+  Purpose: To advertise (persuade) a solution
+
+  Internal audience:
+    include people within your group 
+    Coworkers, teammates, boards, commiteees
+
+  External audiences: 
+    Customers / Suppliers
+    Government agencies
+    Competitors
+    The public, media
+
+Organizations include:  
+  school, club, workplace, city, agency 
+
+Each group has norms of behavior which are revealed in many ways, in addition to written communication
+
+- verbally, through myths, stories, slogans, songs
+- Visually, though logos, colors, fonts, designs
+- Nonverbally, through gestures and tone of voice allocation of space, money, and power; clothing and dress codes
+
+
+October 2nd 2023:
+  Communication channels:
+    Channels include digital, verbal, and hard copy; synchronous and asynchronous 
+  
+    Channels vary:
+      - speed 
+      - cost
+      - number of people reached
+      - efficiency / accuracy 
+
+    What communication channels exist:
+      - Websites
+      - Blog
+      - Email 
+      - IM / chat 
+      - Social Media
+
+
+October 4th 2023:
+  Emails should be sent within 3 business days (generally)
+  cyber slacking or "time theft"
+
+  companies can monitor worker' internet connecdtions and store and review employee e-email
+
+  misuse of office e-mail or internet connections can lead to discipliinary actions or employment termination.
+  scandals?
+
+  48% of large companies blame their worst security breaches on employees
+
+  basic parts of emails:
+    cc (carbon copy):  
+    bcc (blind carbon copy): good for privacy because bcc allows for the mail to not show the email of the recipiants
+    send button
+    subject line:
+      simple:
+
+      specific:
+
+      cannot have more than one subject in an email communication
+
+    Salutation:
+      Dear professor _______,
+      Dear colleagues,
+      Good morning,
+      Hi everyone,
+      Greetings!
+      John,
+
+      Mr. Ms. Mrs.?
+      When in doubt, state full name
+      add a positive buffer?
+      "I hope your term is off to a good start"
+      "It was great to meet you and learn about..."
+
+      Neutral buffer for topic / context 
+      As we discussed during yesterday's staff meeting
+
+    The example shown is really bad
+
+    Body of email:
+      Use block format
+      
+      Organize content:
+        headings, if appropriate 
+        short paragraphs
+        bullets, if appropriate
+        Bolding, etx, if helpful 
+
+      End with what the reader needs to do:
+        for example, "Please send confirmation of your plan"
+
+  (basically dont be a dumbass )
+
+
+
+Monday October 9th 2023:
+
+You-attitide:
+  consider's reader's Pov 
+
+  respects the readers intelligence and ego
+
+  still work torwards company/author goals
+
+  We at the meijer center for writing believe our services can help students become better writers 
+
+  You attitude: You'll improve asa writer...
+
+
+  We are shipping your order. September 21, this afternoon
+
+  We are happy to extend you a credit line of 5,000...
+
+  Congrats, you earned this credit line of 5,000!
+
+  newly hires like you will b
+
+  you will be able to take advantage of the biggest inventory in town and get whatever you need
+
+
+  Stuff to avoid when using You-attitide: 
+    - Avoid it in critism
+    - Avoid it in assumptions
+    
+  Positive Diction:
+    - no problem
+    - yes 
+    - it was my pleasure
+
+...missed last class... its been a rough week
+
+October 13 2023:
+  Direct apporach for negatives?:
+    message is complicated--easily misunderstood 
+    urgency, severity, or apology 
+    known issue or outcome (not a surprise)
+      - like college applications (mannn)
+    audience or company values directness or brevity
+
+    This steam deck delay shows transparency... def need
+    to look at that later
+
+  Passive voice:
+    Use passive verbs when you wantto de-empahsize or when active voice creates
+    the wrong tone
+  
+    Passive: The contract must be completed by March 20th 
+
+    Active: You must complete the contract by March 20th
+
+
+  It sounds so selfish - he's only out for himself
+
+  3 security breach emails:
+
+  Trip advisor:
+    Strongest aspect is brevity given that a security breach is 
+    urgent and a serious matter, so clarity is essential. Tripadvisor
+    was also quick to mention how the breach affects their customers, which
+    is essential in managing panic. One con is that they left no informational
+    resources.
+
+  One con of wallgreens is the mentioning of being aware of email scams
+  this is both a pro and con but the context of this statement shifts blame
+
+  is it factually correct to blame the customers? The customers are usually 
+  wrong then.
+
+
+  Negative news scenario:
+    Project on my own:
+      Come up with a complaint scenario
+      
+      writing a formal complaint letter to a business
+
+16 October 2023:
+  International English:
+  - Simplify 
+  - Specify 
+  - Research
+
+  Guidlines for global audience: 
+    - Be concise 
+    - Use active voice 
+    - Use parallelism 
+    - Use consistent terms 
+    - Avoid pronouns
+    - Avoid idioms, Slang, etc 
+    - Avoid holiday references
+    - Avoid negative construction
+
+    Home Depot in China
+    - DIY
+
+    Walmart Japan/Germany
+    (Japan thought this was lower quality because cheap lmaoo)
+    - Everyday Low Prices 
+    - Customer Service
+
+    Dunkin donuts:
+      - Variations in Taste
+    Airbnb:
+      - One less stranger
+
+    Apply this to the good news scenario 
+    (make multicultural sentence structure/diction)
+
+    Tone: Author's implied attitude
+
+    When presenting bad news; you probably need to be unbiased
+
+    Pick a good scenario for the bad news project
+
+18 October 2023:
+  Cut redundancies
+
+  "The computer programming director to confirm a switch to an efficient software"
+
+20: October 2023:
+  They're/ Their /there
+
+  Grammer is very important: follow all grammar conventions 
+
+  Also, read your text aloud to identify faults in 
+
+  Have a sentence boundary issue:
+    
+    Subject, Predicate, Complete idea
+    if one of these is not present, we create a sentence fragment
+    A run on is not a long sentence, a short sentence is not a 
+    sentence fragment
+
+    "I would rather be somwhere quiet. If I need to be able to think."
+
+    CORRECTION:
+    "I would rather be somwhere quiet,If I need to be able to think."
+
+    Most mistakes in English cannot be committed in speech; they can only be 
+    made in writing.
+
+    coordinating conjuctions: but, and, nor, for, or yet, so
+
+    Semicolon can be used as super comma:
+      The students in th class were from Lynchburg, Virginia; 
+      Washington, D.C; 
+
+    Separate the dependant clause and independant clause 
+      "Because my wife died, my home is fully under my name"
+
+    Restrictive vs Non-Restrictive Clauses:
+      Gluseppe said his birthmark which had been bothering him for years,
+      had to be removed. 
+
+    M-Dashes:
+      can be included for breaks in a sentence 
+
+    Colon: 
+      Only time when a colon is necessary is for emphasis and long lists
+
+
+missed last class...
+
+
+October 25 2023:
+Sufficient clause:
+  likely to produce results you are suggestion
+necessary cause:
+  it is necessary to get the results you want
+
+Evidence solution:
+  will address the problem and is the best option 
+
+  - analogy
+  - precedent 
+  - casual reasoning 
+
+Will the audience be willing to perform the action:
+  how have you been incited to action vs. agreement?
+
+  think of time you've resisted change - what was the issue?
