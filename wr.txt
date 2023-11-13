@@ -644,4 +644,13 @@ Toulmine method:
       Assess (the relationship between claims)
       Evaluate (claims, reasoning, and evidence)
 
+13 November 2023:
+  Finding a job:
+    Using online job boards:
+      - indeed 
+      - linkedin 
+      - networking 
+      - connections
+      - career fairs
+
 
