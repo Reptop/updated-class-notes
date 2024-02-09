@@ -1,0 +1,53 @@
+Jan 26th:
+  1. An object in motion (or at rest) stays in motion (or at rest) unless a net external force acts on it
+  2. The net force on an object is equal to the objects's mass times its acceleration
+  3. If A exerts a Force on B, then B exerts a force of the same magnitudeon A in the opposite direction
+
+  F = MA
+
+  If there is an acceleration, there must be a net force 
+
+  summnation of forces != 0
+
+  equalibrium: the summnation of forces = forces
+  Two types: Static: nothing is moving
+             Dynamics: not accelerating but it is moving (constant velocity thats not 0) 
+
+  Dynamic equalibrium:
+    acceleration != 0 (when something's accelerating)
+
+  Friction:
+    If something is sliding to the right, the friction vector will point to the left
+    
+    Friction is an opposing force
+    
+    Force on the stone by the rope: Tension force 
+
+    Force on the stone by earth: gravity
+
+    Force on the box by rope: Tension
+
+    Force on the box by earth: Gravity
+
+    Normal force: orthogonal force from myself 
+
+    When two things are pushed together, there is a normal force that pushes back
+
+    Not everything needs to have a normal force
+
+    The normal isnt always equal to the force of gravity - it can be greater sometimes
+
+    How to draw a good FBD:
+      1. Include coordinates (where is the x direction, y direction, and origin)
+      2. Represent the object as a single point (for now)
+      3. Draw each force acting on the object
+        - Label the forces
+        - Draw them to scale (if possible)
+
+      Doing thrse things will make the next steps of the problem go much smoother. You should always draw 
+      Free body diagrams for forces problems, and we will always must draw one
+
+      
+
+
+

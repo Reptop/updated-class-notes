@@ -1,0 +1,87 @@
+\documentclass{amsart}
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary} \newtheorem{lemma}{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\begin{document}
+
+\section{Introduction}
+
+
+\begin{definition}
+Let $X \subset \mathbb{R}^d$ be a convex set.
+We say that $f : X \rightarrow \mathbb{R}$ is log-convex if
+$$
+\log f( t x + (1-t) y ) \le t \log f( x) + (1-t) \log f(y),
+
+
+\iiint_V \mu(u,v,w) \,du\,dv\,dw
+$$
+for all $x,y \in X$ and $0 \le t \le 1$. 
+\end{definition}
+
+\begin{theorem} \label{thm1}
+Let $I \subseteq \mathbb{R}$ be an interval. Suppose that $T : I \rightarrow \mathbb{R}^{n \times n}$ is entrywise log-convex. Then,
+$r(T) : I \rightarrow \mathbb{R}$ is log-convex.
+\end{theorem}
+
+\section{Main result}
+
+The purpose of this note is to extend Theorem \ref{thm1} to higher dimensions. In particular, we will prove the following corollary.
+
+\begin{corollary}[Extension to $\mathbb{R}^d$] \label{cor1} Suppose that $X \subseteq \mathbb{R}^d$ is a convex set. Suppose that $T : X \rightarrow \mathbb{R}^{n \times n}$ is entrywise log-convex. Then, $r(T) : X \rightarrow \mathbb{R}$ is log-convex.
+\end{corollary}
+
+\begin{proof}[Proof of Corollary \ref{cor1}]
+Suppose not, that is, suppose that $r(T)$ is not log-convex. Then, there exists
+$x_0,y_0 \in X$ and $t_0 \in [0,1]$ such that
+\begin{equation} \label{contradiction}
+\log r(T)( t_0 x_0 + (1-t_0) y_0) > 
+t_0 \log r(T)(x_0) + (1-t_0) \log r(T)(y_0).
+\end{equation}
+Define the function  $g : [0,1] \rightarrow \mathbb{R}$ by
+$$
+g(u) = r(T)(u x_0 + (1-u) y_0).
+$$
+We claim that the function $g$ is log-convex. Indeed, define $h : [0,1] \rightarrow \mathbb{R}^{n \times n}$ by 
+$h(u) = T(u x_0 + (1-u) y_0)$. By assumption, $T$ is entrywise log-convex, so it follows from Lemma \ref{lem1} that the function $h$ is entrywise log-convex. Thus, by Theorem \ref{thm1}, the function $g$ is log-convex. Thus,
+$$
+\log g(t_0) \le t_0 \log g(1) + (1-t_1) \log g(0),
+$$
+which by the definition of $g$ is equivalent to 
+$$
+\log r(T)( t_0 x_0 + (1-t_0) y_0) \le  t_0 \log r(T)(x_0) + (1-t_0) \log r(T)(y_0),
+$$
+which contradicts \eqref{contradiction}. This completes the proof.
+\end{proof}
+
+\begin{lemma} \label{lem1}
+Suppose that $f : \mathbb{R}^d \rightarrow \mathbb{R}$ is log-convex. Fix any $x,y \in \mathbb{R}^n$ and define $g : [0,1] \rightarrow \mathbb{R}$ by
+$$
+g(u) =  f( u x + (1-u) y ).
+$$
+Then, $g$ is log-convex
+\end{lemma}
+\begin{proof}[Proof of Lemma \ref{lem1}] We want to show that
+$$
+\log g( t u + (1-t) v)  \le t \log g(u) + (1-t) \log g(v),
+$$
+for all $v,u \in \mathbb{R}$ and $t \in [0,1]$. Observe that
+\begin{equation*}
+\begin{split}
+\log g(t u + (1-t)v) 
+&= \log f\left( \big(tu + (1-t)v\big) x + \big(1- (tu + (1-t)v) \big)y\right),\\
+&= \log f\left( \big(u x + (1-u)y \big)t + \big(v x + (1-v) y\big)(1-t) \right), \\
+&\le (t \log f\left( u x + (1-u)y  \right) + (1-t) \log f \left(v x + (1-v) y\right), \\
+& =  (t \log g(u) + (1-t) \log g(v), \\
+\end{split}
+\end{equation*}
+where the inequality follows from the fact that $f$ is log-convex.
+
+\end{proof}
+
+
+\end{document}
+
