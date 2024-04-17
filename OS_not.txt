@@ -1,0 +1,391 @@
+Apr 1st 2024:
+  In the early 50s-60s an operating system ohly ran 
+  programs 1 job at a time. 
+
+  Later we got batch monitors that are multi-programmed 
+
+  Letms make an OS run/manage multiple jobs 
+
+  Os became a focus of study 
+  - How to protect multiple jobs?
+  - How to manage multiple jobs?
+  - How to write multiple jobs?
+
+  the motivation for parallel computing was to make 
+  efficient use of our time instead of just doing 
+  one task at a time
+
+  Running multiple programs became the main motivation after 
+  the 60s throuhg time slicing 
+
+  in the 90s, windows 95 released...
+
+  - Internet protocols have been added to PC OS 
+  - internet programming became inportant (web, python)
+  - Multi-tasking became much more important
+
+  from the 90s to modern today...
+
+  Functionalities of modern OS:
+    - Manage resource 
+    - provide abstractions 
+    - offer standard interfaces 
+
+  What we do in the class:
+    - bash 
+    - C lang 
+    - files and directories 
+    - processes (threads too)
+    - networking 
+    - secure OS (rust)
+
+How OS runs programs?
+  - processes 
+  - threads 
+  - scheduling basics 
+
+How Os loads/stores data?
+  - Files 
+  - I/O's 
+  - Filesystem internals 
+
+how does the OS support comm?
+  - Signals and PIPEs 
+  - sockets
+  - networking 
+
+Part IV: How OS manages programs running on limited resources safely?
+  - synchronization
+  - rust
+
+
+April 8 2024:
+  this day is the end of wii u and 3DS online...
+
+  farewell 
+
+
+  computer program:
+    def: a set of instruction for an OS to execute 
+
+    - it converts source code to assembly code 
+    - it then converts the assembly code to instructions 
+
+    GCC compilation:
+      converting source code to assembly
+
+  process:
+    def: a n abstract view of an executing program 
+
+    process segments:
+      code, data, jeap, and stack
+    
+    edit         compile
+  you->source_code-->executable->OS loads & executes-->process on memory
+
+  Memory stuff:
+    operating system stuff is mappped at the top of the address space
+
+    processes can share memory by mapping to the same page
+
+
+    for each process, a maintains a specific set of information 
+    to maintain that process 
+
+    an operating system is just like progams we write!! 
+
+    it maintains data structures and provides abstractions to make stuff 
+    easier for us
+
+  Os process:
+    def: an abstract view of an executing program 
+
+    abstraction on how an OS load a process:
+      - code: OS loads the instruction to code segments
+      - data: OS loads the data to "data" segments
+      - heap:
+      - stack and heap: OS creates those mem spaces
+
+    difference between stack and heap:
+      a stack's behavior is pre-defined by the OS
+
+      heap memory is a cloud of memory we can utilize - 
+      the OS finds an empty space of memory we can use for us
+
+    swap memory:
+      additional RAM stored n the actual hard disc in case 
+      actual RAM runs out - helps by creating redundancy
+
+      static variables would in the .data area
+
+      global variables do NOT ensure reliable testing
+
+
+    remember:
+      each command actually a program 
+      ls, cat, touch, cd, mkdir, rmdir, sudo, pacman, yay,
+      -Syu 
+
+      dynamic memory allocation is a system call
+
+
+      OS offers a set of system calls:
+        - to create.terminate a process 
+        - to open/read/write/close a file 
+
+        KERNEL MODE is full access to hardware functionalities
+
+    Child process and parent process:
+      fork() system call:
+        create a new process that is an exact copy of the calling process 
+        return the process ID of a new process
+
+        other system calls:
+          - exec(program to run)
+              create a new process with fork and dump the program to run into it 
+              return Q if exec() is sucessful; otherwise, it returns the coresponding error
+
+              .....
+
+
+    review the OS slides 
+
+  malloc and calloc 
+
+
+  Apr 10th 2024:
+    fork():
+      Os manages processes with a tree 
+
+      - use ($ pstree) command to see the tree 
+
+      - 0 riit if the fork() tree (in linux)
+
+
+    Topics for today:
+      - provide abstraction
+      - what is a thread? 
+      - how is it different to a process?
+        ... 
+
+    Running multiple processes: web-server example:
+
+    - Amazon.com:
+        what does the webserver do?:
+        - user requests the website 
+        - a server accepts the connnection 
+        - a user clicks something 
+        - a server sends the webpage as a response
+
+
+        when it comes to accepting requests, we should be able 
+        to accepts requests in parralel - this allows us to handle 
+        multiple users at the same time
+
+
+        - if there is more than a few seconds of delay, users 
+          go away
+
+        - forking is a viable solution to handling multiple users 
+          at once
+
+        - the issue with multipprocesses at such a large scale 
+          (in the context of amazon), there's a large use of memory
+
+          processe forks are independant from each other
+
+          each data in each space is not accessible by each programs
+
+    provide abstractions:
+      - definition: a smallest schedulable execution context 
+      - terminology:
+          smallest: its much light-weight than a process
+          ...
+
+
+    how are threads different from a process:
+      - threads are not has isolated as a process
+
+      - ???... 
+
+    Threads share:
+      - code and data segments 
+      - heap memory 
+
+    Linux has thread control block 
+    
+    - code:
+        program counter 
+        instruction pointer 
+
+    - stack and pointer:
+--------------------------------------------------
+  threaed-specific system calls:
+    - pthread_create(thread, attribute, subroutine, subroutine-arguments):
+      - createa new thread executing the subroutine in the current process 
+      - returns zero if its successful, otherwise it returns errno
+
+  pthread_exit(return value)
+  - terminate the thread and returns the return-valie to anny successful join 
+
+
+  pthread_join(thread, return-value-loc):
+    - suspend execution of calling thread until the thread terminates 
+    - once th  thread terminate , the function will copy the return value to the 
+      return-value-loc
+--------------------------------------------------
+
+
+when you call a thread, all its executing is the function you give it 
+
+
+e.g. 
+  downloading a large file:
+   - splits a file into smaller chunks 
+   - create a thread for downloading each part
+   - combine them to create a single large file
+
+    that example above is really cool because it really is a 
+    divide a conquere approach - similar to recursion
+
+
+    thread sample code in C:
+      - how many threads are there?
+      - which thread is craeted first?
+      - which thread is created last?
+      - which thread runs first/last?
+
+
+    in the exapmple in class, we dont know which one runs first, 
+    so we also dont know which order they will join either 
+
+    this is because of a lot external factors
+
+
+    threads are the smallest exceutionable context
+
+
+    a thread can have three states:
+      - ready state: created and ready to run, but not 
+      - ... 
+      - ...
+      - ...
+
+April 15 2024:
+
+Recap:
+  Linux treats threads and processes the same exact way 
+  the kernel schedules threads
+
+
+  memory management is something we have to do; thus, creating 
+  and executing processes is essential
+
+  What is scheduling?:
+    how it happens...
+
+    for example:
+        Your chrome browser:
+          - open multiple tabs 
+            tab 1 ... 
+            tab 2 .. 
+            tab 3 .. 
+
+          Do they need memory all at the same time??
+
+          scheduling comes with processes and threads 
+
+          def: the action of assigning resources to perform tasks
+
+          example: your chrome browser 
+            - an OS assigns each tab to one of the processors
+            - the os takes over the processor and assigns to another browser
+
+          goal:
+            - generate illusion 
+          
+            illusion:
+              make you feel that you;re running 100_ processes at the same time 
+
+            definition:
+              - multiprogramming vs multi-processing vs multi-threading 
+                - multiple jobs (processes)
+                - multiple processors (CPUs)
+                - multiple threads
+
+            context switch 
+              - definition:
+                OS stores the status of the  current process and lods the status of the new process 
+              - informal: OS takes a cpu from one process and gives it to another
+
+
+                context switch basically starts something, but does not finish it 
+                and then moves on to another process and finishes or doesnt and goes 
+                back to another unfinished proceses - its like doing something in a 
+                dynamic priority I think...
+
+            process context:
+              - code 
+                  program counter 
+                  instruction pointer 
+              - stack and heap 
+                  - stack pointer 
+                  - heap pointer 
+              - running context 
+                  - process state 
+                  - execution flags 
+                  - cpu # to run 
+                  - scheduling policy 
+                  - mem virtualization
+
+            what happens during scheduling?:
+              - def: OS sotres the status of the current process and loads the status of the 
+                new process 
+              - informal: OS takes a cpu from one process and gives it to another 
+
+              - too many process switching makes system unresponsive
+
+            a process can have 5 STATES:
+              - new 
+              - ready 
+              - running 
+              - waiting 
+              - terminated
+
+            How OS performs scheduling:
+              def of scheduling: an os activity taht schedules processes  
+                                 in different states 
+            (OS) Scheduler 
+              - Def: an os task (process) that manages the process scheduling activity 
+
+              implementation:
+                while (some confition but eventually will be infinite) {
+                  runprocess (curproc);
+                  newprooc = choosenextproc();
+                  savecurrentproc(curppeoc);
+                  loadnextstate(newproc);
+                }
+
+                it is also a process (an infinite loop) 
+                the scheduler process terminate sif we stop a computer 
+                
+
+                how do we choose a next process:
+                  FIFO (first comes, first serve)
+                  LIFO (last come, first served)
+                  - shortest job first 
+                  - priority based (do important job first)
+
+                multiple objectives:
+                  - FAIRNESS 
+                  - priority 
+                  - deadlines 
+                  - throuhgput maximize the number of tasks done 
+                  - efficiency 
+
+                no silver bullet:
+                  - depends on objectives bruh 
+                  - objectives are in conflicts 
+
+
+

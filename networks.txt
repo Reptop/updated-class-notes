@@ -1,0 +1,220 @@
+April 2 2024:
+  
+  power wall:
+    single threaded performance is not increasing as much as 
+    transistor density
+    
+    since 2005, frequency has been steady - like there's no 
+    10ghz processors
+
+    the 14900k reached like 9ghz I think - still impressive
+
+    He's saying that frequency is not going up but I think it is 
+    but just VERY slowly
+
+
+    the introduction to hyperthreading helped a lot 
+
+    threadripper :0 
+
+    memory wall:  
+      cpu/gpu performance increases by a factor of 3 every 2 years
+      however, there's a gap between memory speed and peak perforamance
+
+      - The larger the memory capacity is, the more latency in memory 
+        the more latency there is. The issue with modern cpus is that 
+        they are being starved; the next instruction is not being 
+        fetched fast enough because modern cpus are so fast.
+
+      - apple engineers were really smart beacause they prioritized 
+        memory bandwith and kept core count the same.
+
+      - Why we dont use gpus to run operating system:
+          gpus dont like branching and its highly required to have
+          this feature for gpus 
+
+      - point of tensor processing units:
+          to point stuff away from the cpu - as this allows to free load on 
+          the cpu
+
+      - IEEE and CIPM are not SI units - they are just industry standard
+
+      - 1 byte is always 8 bits
+
+      - ISO/OSI Layer Referene Model will be the map to structure 
+        the "stack" of physicial HW/SW 
+
+April 4 2024:
+  Chapter 1: Computer Networks:
+    
+    What is the internet?
+      Billions of connected computing devices 
+
+      (Also called the edge of the internet)
+      hosts = end systems can also call them clients or severs 
+      based on the context
+      running network apps at internet's edge
+
+      Packet switches: forward packets (chunks of data)
+      - routers, switches
+
+      Communication links:
+        fiber, copper, radio, satellite 
+        transmission rate: bandwith
+
+      networks:
+        collection of devices , routers, 
+        links: managed by an organization 
+
+    What are protocols?
+    Network edge?
+    Network core?
+    what exactly is an ip address?
+
+
+    The internet "network of networks"
+    - interconnected ISPs 
+
+    What's a protocol?
+      A human protocol and a computer network protocol 
+
+      Human protocol:
+        - What's the time?
+        - I have a question 
+        - introduction 
+
+
+
+      computer protocol:
+
+      tcp connection request-> server 
+
+      server responds with tcp connection --> GET url 
+
+      -> returns url 
+
+
+      Protocols that we will use:
+        HTTPS -> get data from web pages 
+        DNS = "type a URL name in your browser"
+        DHCP = "auto get IP address assigned to your computer"
+        NTP = "synchronize time over the network"
+        FTP = "file transfer protocol" (old fashion nowadays)
+        SMTP = "For sending emails"
+        IMAP = "one of the protocols to recieve emails in an email client"
+        TETLNET and SSH = "command line to make call to another computer"
+
+
+      Access networks: cable-based access 
+        - ..... 
+
+      Digital suscriber line (DSL)
+      - use existing telephone line 
+
+      Access networks: home networks 
+        - wireless devices 
+        - wifi wireless device 
+
+      wifi access network connects end system to router 
+        - via base station aka "access point"
+
+        wireless local area networks:
+          .... 
+
+      enterprise networks:
+        - companies, universities
+        - mix of wired, wireless link technologies, connecting a mix 
+          of switches 
+
+        - ethernet
+        - ....
+
+      Host: sends packets of data 
+        - takes application message 
+        - breaks into smaller chunks 
+        - known as packets, of length L bits 
+        - Transmits packet into access network at 
+          transmission rates 
+      
+      Links: physical media
+        - bit propogates between transmitter/reciever pairs 
+        - physical links: what lies between transmitter and reciever 
+        - guided media:
+            - signals propagates in solid 
+              media: copper... 
+
+        coaxial cable:
+          - bidirectional 
+          - two concentric copper conductors 
+          - broadband
+              - multiple frequency channels on cable 
+              - 100s Mbps per channel 
+
+          Fiber optic:
+            glass fiber carrying lifht pulses, each pulse a bit 
+            high speed operation:
+              high speed point-to-point 
+
+            - LOW ERROR RATE
+               - but the repair process......... its so meticulous
+
+  
+  April 9 2024:
+    Compairson of VPN vs TwinGate:
+      vpn - remote acesss
+
+      -- did conversion stuff on paper today 
+
+
+  April 11 2024:
+    - internet structure: a network of networks 
+
+      its a connection of internet service providers 
+      interacting with each other 
+
+      At the center: small $ of well-connected large networks 
+
+      content provider networks: ...... 
+
+      ...... 
+
+
+      make sure to review those blanks after class 
+
+
+      packet delay: four sources 
+        nodal processing      queing delay 
+
+      Caravan analogy: propagation vs. transmission 
+      .....
+
+      --- Oregon state's service provider is linkoregon ---
+
+      "Real" internet delays and routes 
+
+      - what do real internet delay & loss look like?
+          ....
+
+
+      we looked at practice questions that I must look at 
+      after class - I got the math
+
+
+      "time of first poacket left" - "time of 2nd packet arrives"
+
+
+      throughput: rate (bits/time unit) at which bits are being sent from
+      sender to reciever
+
+      what is the end-end throughput?
+
+      What is average end-end throughput? -> Rc
+
+      Look at scenario 2 and 3
+
+April 16 2024:
+  Python basics n stuff rn
+
+  wireshark is a network protocol analyzer
+
+

@@ -1,0 +1,130 @@
+Apr 2 2024:
+  - you can make groups to submit assignments.
+  - this has to be setup before the first assignment 
+    due date.
+  - You are also stuck with this group 
+
+  - this class is about the theory of programming langauges 
+
+  - how can we define a PL? (programming langauge)
+
+  - how can we study a PL?
+  
+  central concept in computer science:
+  - algorithms 
+  - abstractions
+
+  big o --> the relationship between the runtime of an algorithm 
+  and the change in input size of that algorithm
+
+
+  Abstration levels:
+  5: Meta langauge -> Regular expression....
+  4: feature -> syntax, semantics 
+  3: Model/paradigm -> lamda calculus, turing machine 
+  2: Language -> Elm, C, c++ 
+  1: Program -> fac n = if n == 1 then 1 else n*fac(n - 1) 
+
+A langage to define the structure and meaning of another langauge 
+
+Context free grammar?
+
+  Metalangauge:
+    - Grammars 
+    - Elm 
+    - English
+
+our focus summary:
+  - define abstract syntax and semantics 
+  - compare different language features 
+
+use Metalangauges for examining concetps:
+  - definitions using grammars 
+  - intepreters using Elm
+
+what is elm?
+  Elm is a functional programming langauge 
+  - strongly and statically typed 
+    - types are checked first before anything is run 
+  - compiles to javascript 
+  - langauge design focused on simplicity
+
+  - we are trying to use elm as a Metalangauge 
+
+    using elm is useful in creating the syntax for other langages...
+
+
+  4 April 2023:
+    computation paths:
+
+  Tracing:
+    ... this will be on the QUIZ!!
+
+
+  April 9th 2024:
+    De/Re constructive programming
+
+
+    Lists:
+      list constructers: 
+
+      -- List constructors:
+      --   [] : list a
+      --
+      --   a -> List a -> List a
+
+
+
+
+
+
+April 11 2024:
+  once again, nothing is mutable so you're making copies 
+  of data structures
+
+
+  replFst x l = case l of 
+
+
+Notes for next quiz:
+  - LOOK at the function arguments 
+  - actually practice before the test 
+  - dont get distracted the day before 
+
+
+What is a language?
+  A system of communication in a structured way 
+    
+  Natural langauge - used for arbitrary communication 
+  complex, nuanced, inherently ambiguous 
+
+  programming langauge:
+    - used to descrube computation 
+    - programs have structure and meaning
+
+  two aspects of language:
+    syntax: the strucure of its programs 
+    semantics: the meaning of its programs 
+
+
+  Grammar: set of productions (or rules)
+  production: L ::=R 
+  L = nonterminal symbol 
+  R = sequence of terminal and nonterminal symbols 
+
+
+  sentene sequence of terminal...
+  langauge: set of derivable sentences 
+
+
+  grammar is a four tuple where we have 
+  nonterminal, terminal, set of productions, and a start symbol 
+
+  derivitations are quite literally all possible sets 
+
+
+  we're looking at a large abstraction of what a langauge is 
+  holy fuck
+
+
+-- review language abstraction
